@@ -1,0 +1,229 @@
+REM   Remarks follow any line which begins with REM.  Any values 
+REM   following a REM line will be ignored.  
+REM   
+REM   The Compulife directory contains the file (CLDOC.INI) and 
+REM   another sample file called "CL.INI".  Neither file is actually 
+REM   integrated to the Compulife program.  
+REM   
+REM   The file which does integrate to the Compulife program is called 
+REM   
+REM                  CLIENT.PRM   (old file name CLIENT.INI)
+REM   
+REM   We do not provide a CLIENT.PRM file as this is a "shuttle file".
+REM   When the GOWIN.EXE program first starts up it looks for the CLIENT.PRM
+REM   file and if it finds the file the contents are read by GOWIN.EXE 
+REM   into the client record for the software, and then the CLIENT.PRM 
+REM   file is deleted.  This read and delete is instantaneous.
+REM   
+REM   To test how this works you can make a copy of CL.INI to 
+REM   CLIENT.PRM by typing 
+REM   
+REM                        COPY CL.INI CLIENT.PRM 
+REM   
+REM   This can be done at a DOS prompt in the Compulife directory.  
+REM   or you can log into the folder with "My Computer", copy the CL.INI,
+REM   paste a second copy, then rename it to CLIENT.PRM.
+REM   
+REM   You could also copy this file (CLDOC.INI) to CLIENT.PRM and it 
+REM   would be processed the same way.  As each of these comment lines 
+REM   are preceded by a REM, they are ignored by the GOWIN.EXE program.
+REM   
+REM   If you take a look at the contents of the CL.INI file you will 
+REM   discover that it is divided into sections.  These are:
+REM   
+REM   [CLIENT 1]
+REM   [CLIENT 2]
+REM   and
+REM   [GENERAL]
+REM   
+REM   Each section is then divided into variables.  Each individual 
+REM   element of the section has been assigned a variable name which 
+REM   the Compulife program will recognize when it processes the file.
+REM   
+REM   Please note: section and variable names are NOT case sensitive.
+REM   
+REM   Variable names are followed by the = symbol, which is then 
+REM   followed by the value that you want the variable set to.  
+REM   
+REM   Under each client section the following list of variable 
+REM   names could or should appear:
+REM   
+REM   Note:  If you do not set a variable, the value used previously
+REM          will be the value used by Compulife
+REM   
+REM   Birthdate
+REM   ActualAge
+REM   NearestAge
+REM   Sex
+REM   Smoker
+REM   Pref
+REM   PrefPlus
+REM   FaceAmount
+REM   Name
+REM   
+REM   The following are the possible answers to the variables which 
+REM   follow the [CLIENT 1] section heading:
+REM   
+REM   Birthdate=02,04,54
+REM   
+REM   The format is day, month, year.
+REM   
+REM   ActualAge=42
+REM   NearestAge=42
+REM   
+REM   If you have set the birthdate correctly, it is NOT NECESSARY to 
+REM   also assign the two age variables.  This would be REDUNDANT.  
+REM   However, should you make a mistake and place both the birthdate 
+REM   and age variables into the file, then the last variable will 
+REM   dictate what the client age is set to.  Therefore, if there is a 
+REM   discrepancy between the birthdate and age, the last variable 
+REM   (date or age) will be used by the system.
+REM   
+REM   Sex=M
+REM   
+REM   Sex is either M for male, or F for female.  For states which use 
+REM   Unisex rates the program ignores the sex field no matter how you 
+REM   set it.
+REM   
+REM   Smoker=N
+REM   
+REM   Non-Smoker is N.  Y indicates a smoker.  
+REM   
+REM   Pref=N
+REM   
+REM   Preferred is Y for yes, N for no.  If this field is set to "no" 
+REM   then products which offer preferred rates will be ignored.  Only 
+REM   products with standard/regular rates will be included in the 
+REM   illustration.
+REM   
+REM   PrefPlus=N
+REM   
+REM   Preferred Plus is Y for yes, N for no.  
+REM   
+REM   
+REM   FaceAmount=500000
+REM   
+REM   Self-explanatory.  No commas and no decimal points.  There should 
+REM   be no fractional dollars in a face amount.
+REM   
+REM   Name="Robert L. Barney"
+REM   
+REM   The client name must be contained in double quotations which are 
+REM   ignored by the program when processing the variable.  The maximum 
+REM   length of the client name is 40 characters.  Anything entered beyond
+REM   40 characters will be ignored.
+REM  
+REM   The program ignores everything to this point, then sets the first 
+REM   client to the following:
+REM  
+[CLIENT 1]
+Name="Robert L. Barney"
+Birthdate=02,04,54
+Sex=M
+Smoker=N
+Pref=N
+PrefPlus=N
+FaceAmount=500000
+REM
+REM   Remember, to pass in each client, the list of client variables 
+REM   must be preceded by the appropriate section title, followed by 
+REM   the variables for that client.  In this case, the following list 
+REM   of variables will set the client 2 section.
+REM
+[CLIENT 2] 
+Name="Patricia K. Barney"
+Birthdate=27,04,57
+Sex=F
+Smoker=N
+Pref=N
+PrefPlus=N
+FaceAmount=250000
+REM
+REM   Finally you can set variables under the title [GENERAL].  At this 
+REM   point the only variable you need be concerned with is the agent 
+REM   name.  However, if you are operating Compulife under a personal 
+REM   use discount, this variable will be ignored by the program.
+REM
+[GENERAL]
+Agent="Sherlock Holmes, Best Term Detective"
+REM
+REM   The following variables may also be set under [GENERAL], but we 
+REM   recommend not using them at this point as the setting will be 
+REM   redundant to normal use of this feature.  We look forward to 
+REM   receiving customer feedback as to what other ways they might want 
+REM   to use the program or have it integrated to other software.
+REM   
+REM   Menuchoice=3
+REM   PrintAMBestGuide=Y
+REM   Agent="Quincy Jones"
+REM
+REM
+REM   The following are the variables used to set the product values for 
+REM   Compulife's "Interest Adjusted Cost Analysis" (IACA).  IACA permits
+REM   you to compare two products, side by side, year by year, using any
+REM   interest and tax assumption you specify.  The products can either be
+REM   filed to IACA using the Compulife Quotation System, or the products
+REM   can be manually entered.
+REM
+REM   The following is designed to allow life companies to transfer product
+REM   information directly to the IACA program from their own illustration 
+REM   software.  For example, a life company may wish to have their U/L 
+REM   product transfered into IACA for comparison to a term policy.  
+REM   Simply follow the instructions for the creation of a CLIENT.INI file, 
+REM   and use the following variables to transfer the product to IACA.
+REM
+[IACA]
+InterestRate=6.25
+TaxRate=50.00
+REM
+REM   Note:  If you do not specify the interest and tax rate, the values
+REM   will default to whatever was last entered by the user.
+REM
+EndingAge=99
+Summary=Y
+SummaryAge=65
+REM
+REM   If you are entering the values for one product in the IACA comparison
+REM   simply fill in the information for IACA PRODUCT 1 or 2, and leave
+REM   the other unspecified.  The system will default to whatever was 
+REM   previously entered for the other product.
+REM
+[IACA PRODUCT 1]
+CompanyName="Name of the first company"
+ProductName="Name of the first product"
+FaceAmount=500000
+PresentCSV=0
+SummaryCSV=25000
+REM
+REM   The following will set the premium, for years 1 to 57, to $1,177.50.
+REM   Year 1 indicates the year the premium starts.  As there is no
+REM   further indication of a year change, the premium of $1,177.50 is 
+REM   assumed to continue for ALL years (see the next IACA PRODUCT 2).
+REM
+Year=1  
+Premium=1177.50
+[IACA PRODUCT 2]
+CompanyName="Name of the second company"
+ProductName="Name of the second product"
+FaceAmount=500000
+REM
+REM   Note:  there is no Present CSV for Product 2.
+REM
+SummaryCSV=25000
+Year=1  
+Premium=437
+REM  
+REM   The next year value of 11 tells the system that the premium of
+REM   $437 is level from years 1 to 10.   
+REM
+Year=11
+Premium=1450
+Year=21
+Premium=3700
+Year=31
+Premium=8325
+Year=36
+Premium=0
+REM
+REM   Setting year 36 to 0 tells the system there are no more premiums
+REM   after year 35.

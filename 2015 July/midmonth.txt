@@ -1,0 +1,277 @@
+The following changes have been made to the June  
+2015 edition of the Compulife Quotation System:
+
+12.  North American Company for L&H - new rates
+
+July Monthly Update - North American has introduced
+new rates for its ADDvantage Term 10, 15, 20 and 30.
+
+
+12.  Midland National Life Insurance - new rates
+
+July Monthly Update - Midland National has introduced
+new rates for its Premier Term, now called CS7 instead
+of CS 6.
+
+
+11.  Transamerica Life Insurance - state approval
+
+July Monthly Update - Transamerica Life Trendsetter
+LB products are now approved in PR.  Term Life 
+Express is no longer available in PR.
+
+
+10.  Savings Bank Life Insurance - new rates
+
+June 27th - Compulife has now removed the 
+old SBLI Life rates, which are no longer 
+available after Tuesday.
+
+
+9.  Centrian Life Insurance - new rates
+
+June 27th - See number 12 above. 
+
+
+8.  Lafayette Life Insurance - company added
+
+June 27th - Compulife has added the new SIWL for 
+Lafayette Life, called Protector 15.
+
+
+7.  Lincoln National Life - state approvals
+
+June 25th - Lincoln National's 2014 LifeElement 
+term plans are now approved in MA.  
+
+Correction, while on June 9th we have turned off
+the old products for OR, WA and GU, we failed
+to turn on the new products for those states.
+That has been corrected.
+
+
+6.  Lafayette Life Insurance - company/products removed
+
+June 19th - It was reported to Compulife that 
+Lafayette Life has introduced new rates for its
+SIWL life pay and 10 pay products.  We do not 
+have those new rates.
+
+
+5.  Grange Life Insurance - UL products removed
+
+June 15th (2nd) - Grange Life has withdrawn its 
+no lapse UL products for sale.  The company plans
+to reintroduce the products following a re-price.
+
+
+4.  United States Life Insurance - new rates
+
+June 15th - United States Life has introduced 
+new rates for its Select-A-Term products.  
+
+
+6.  Lincoln National Life - state approvals
+
+June 9th - Lincoln National's 2014 LifeElement 
+term plans are now approved in OR, WA and GU.
+
+
+5.  Massachusetts Mutual Life - products added
+
+June 9th - See May 18th for more info.
+
+Massachussetts Mutual has provided the new rates
+for UL Guard 5.2 no lapse UL product.  We reeived
+those this morning and apologize the delay in 
+getting them to you, but it has been a very busy
+weekend and day.
+
+
+4.  American General Life Insurance - new rates
+
+June 8th - American General has introduced 
+new rates for its Select-A-Term products.  
+
+
+3.  Transamerica Life - ROP products removed
+
+June 5th - Transamerica advises that it has 
+today discontinued the ROP option for its 
+Trendsetter 20 and 30 year term plans.  
+
+
+2.  Accordia Life & Annuity - company/products added
+
+June 4th - It seemed to take forever, but this 
+afternoon Accordia Life provided us with copies
+of the rate information for their products.
+
+It didn't take long to enter, the products were 
+essentially the same as Aviva Life's term plans,
+which were removed last year.  
+
+The company is currently offering 1, 10, 20 and
+30 year level term.
+
+
+1.  Pruco Life - ROP factor error
+
+June 4th - One of Compulife's subscribers reported
+a quoting error with a 30 year, ROP product, 
+for a female regular non-smoker, for $1,000,000.
+
+Upon review, I discovered that some ROP factor
+tables had been transposed (used in the wrong 
+categories) for a handful of female cases.  This
+has now been corrected and the subscriber will be
+given a 10% coupon.
+
+
+
+================================================================
+
+The following changes were made and were included with the 
+June monthly update of the Compulife Quotation System:
+
+12.  Savings Bank Life Insurance - new rates
+
+June Monthly Update - SBLI Life has introduced 
+new rates for its 10, 15, 20, 25 and 30 year 
+term products.  The new rates are indicated 
+with "new rates" following the product name.
+
+This from the company:
+
+Transition Rules
+
+New Rates are available for quoting on June 1, 2015.
+
+New Business Submission and Pending New Business
+• Effective June 1, 2015 SBLI will issue pending 
+  applications with new rates, if lower than the 
+  originally quoted rates.
+• Applications submitted to the Home Office between 
+  the period of June 1, 2015 and June 30, 2015 should 
+  indicate “new rates” on the application if it was 
+  sold based on new rates.
+• New applications quoted prior to June 1, 2015 and 
+  received in the Home Office by June 30, 2015 will 
+  be issued with the more favorable rates.
+
+Recently Issued Business
+• Policies that have been recently issued and are 
+  within 120 days of the exam date may be considered 
+  for reissue with the new rates, provided the request 
+  is received in SBLI’s Home Office by June 30, 2015.
+
+No Exceptions Will Be Made.
+
+Compulife will remove the old rates from our software
+in the last week of June.
+
+
+11.  Centrian Life Insurance - new rates
+
+June Monthly Update - See number 12 above. 
+
+
+10.  John Hancock Life - new products removed
+
+May 26th - It was brought to Compulife's attention
+that John Hancock's new Vitality Gold term products
+have certain conditions that the insured must meet
+in order to preserve the initial level premium.
+Failure to meet those conditions can result in
+an increase in premium as early as the second 
+year.
+
+Once John Hancock can provide us with the worst
+case guaranteed maximum premiums for years 2 
+and on, Compulife will reintroduced these 
+products back into the "other term" category.
+
+
+9.  Massachusetts Mutual Life - product removed
+
+May 18th - One of Compulife's subscribers alerted
+us to the fact that Massachussetts Mutual has 
+raised the prices on their UL Guard 5.1 no lapse
+UL product.  We reached out to the company who 
+confirmed that to be the case.
+
+The company is sending us the new rates but in 
+the meantime we have pulled the old products/rates.
+
+Our thanks and a 10% coupon to the subscriber who 
+first alerted us to the issue.
+
+
+8.  John Hancock Life - state approvals
+
+May 19th - John Hancock new Vitality Gold is 
+now approved in GA.
+
+
+7.  Phoenix Life - product added
+
+May 15th - Compulife would like to thank the 
+subscriber who provided us with the rate tables
+for the Phoenix Rememberance Life, which is a
+simplified issue whole life product for the 
+final expense market.  A credit coupon has 
+been issued.
+
+
+6.  Pruco Life - waiver renewal error
+
+May 15th - Pruco advised that we have been 
+using the wrong tables for their YRT renewals
+for waiver of premium.  Until the company can
+provide the correct tables, we have stopped
+quoting waiver renewal premiums beyond the 
+initial level period.
+
+
+5.  John Hancock Life - new products/rates
+
+May 11th - John Hancock has introduced a new 
+product called Vitality Gold.  The product is 
+available as a Term 10, 15 or 20 year variation.
+
+The product is not yet approved in all states.
+
+The existing term plan is unchanged, with the 
+exception that the company asked us to modify
+the product name.
+
+
+4.  GBU Financial Life - state correction
+
+May 11th - GBU's product are not available in 
+CA, CO, CT, MD and NY.  This has been corrected.
+
+
+3.  Midland National Life - state approval
+
+May 11th - Midland National's 30 year Premier CS6
+is now approved in GU.
+
+
+2.  AAA Life Insurance - new rates
+
+May 7th - AAA Life has introduced new rates for
+its 10, 15, 20, 25 and 30 year term products, 
+and new rates for their 15, 20, 25 and 30 year
+ROP products
+
+
+1.  GBU Financial Life - new company/products
+
+May 3rd - Compulife would like to thank the 
+subscriber who provided us with the rate tables
+for the Select Term products of GBU Financial 
+Life.  A credit coupon has been issued.
+
+Select Term is available as a 10, 15, 20 or 30
+year term product.

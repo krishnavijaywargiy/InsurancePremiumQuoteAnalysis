@@ -1,0 +1,20 @@
+
+
+    NOTICE:  You will Find the Monthly Bulletin on the Web
+
+    Compulife's monthly bulletins will no longer be published with the 
+    monthly update.  Instead, monthly bulletins will be published on our 
+    website, as they have been since June 2000.  
+
+    To find this month's bulletin, or any of the past monthly bulletins, 
+    you can go to the "Help" button on the Red Menu.  When you press the 
+    Help Button you will find "Monthly Bulletins" on the list.  When you 
+    click on "Monthly Bulletins", Compulife will launch your Internet 
+    browser and take you to the Monthly Bulletins web page.
+
+    For those who do not have Internet access, we would like to remind you 
+    that Compulife will cease providing disk updates in December 2006.  At 
+    that time, all monthly updates will be by Internet.  Later this year, 
+    rather than this Notice being automatically displayed, the system will 
+    automatically launch the browser and take you to the Monthly bulletins 
+    web page.

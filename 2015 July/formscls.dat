@@ -1,0 +1,15 @@
+#Token, Font color, Background color, Name
+R 0x00000000 0x00bbffff New Business - Required
+L 0x00000000 0x00ddffff Required Supplemental
+P 0x00000000 0x00ccffff Replacement Form
+A 0x00000000 0x00fae9da Additional Riders/options
+B 0x00000000 0x00e3f9e8 Medical Questionaires
+C 0x00000000 0x00fdd7d9 Information - Client
+F 0x00000000 0x00a5d8fa Preliminary Offer
+U 0x00000000 0x00e6e6e6 Underwriting - Additional forms
+D 0x00000000 0x00a2e7fb Delivery Form
+S 0x00000000 0x00d8e9ec Service
+M 0xff000008 0x00e4edcd Marketing Materials - Agent
+T 0x00000000 0x00cccbfe Contracting - Agent
+O 0x00000000 0x00d6d6d6 Other
+N 0x00000000 0x00ffffff Normal

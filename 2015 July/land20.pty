@@ -1,0 +1,627 @@
+[Pick11]
+Left=0
+Top=0
+Width=1025
+Height=710
+
+[Printer:Column Font 1]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 2]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 3]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 4]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 5]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 6]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 7]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 8]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 9]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 10]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Font 11]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Generic Policy Head]
+Name=Arial
+Color=-2147483640
+Size=8
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Width=110
+
+[Printer:Grid]
+Name=System
+Color=-2147483640
+Size=70
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Row Height 0=16
+Row Height 1=18
+Row Height 2=16
+Row Height 3=16
+Row Height 4=16
+Row Height 5=16
+Row Height 6=16
+Row Height 7=16
+Row Height 8=16
+Row Height 9=16
+Row Height 10=16
+Row Height 11=16
+Row Height 12=16
+Row Height 13=16
+Row Height 14=16
+Row Height 15=16
+Row Height 16=16
+Row Height 17=16
+Row Height 18=16
+Row Height 19=16
+Row Height 20=16
+Row Height 21=16
+Row Height 22=16
+Row Height 23=16
+Row Height 24=16
+Row Height 25=16
+Row Height 26=16
+Row Height 27=16
+Row Height 28=16
+Row Height 29=16
+Row Height 30=16
+Row Height 31=16
+Row Height 32=16
+Row Height 33=16
+Row Height 34=16
+Row Height 35=16
+Row Height 36=16
+Row Height 37=16
+Row Height 38=16
+Row Height 39=16
+Row Height 40=16
+Row Height 41=16
+Row Height 42=16
+Row Height 43=16
+Row Height 44=16
+Row Height 45=16
+Row Height 46=16
+Row Height 47=16
+Row Height 48=16
+Row Height 49=16
+Row Height 50=16
+Row Height 51=16
+Row Height 52=16
+Row Height 53=16
+Row Height 54=16
+Row Height 55=16
+Row Height 56=16
+Row Height 57=16
+Row Height 58=16
+Row Height 59=16
+Row Height 60=16
+Row Height 61=16
+Row Height 62=16
+Row Height 63=16
+Row Height 64=16
+Row Height 65=16
+Row Height 66=16
+Row Height 67=16
+Row Height 68=16
+Row Height 69=16
+Row Height 70=16
+Row Height 71=16
+Row Height 72=16
+Row Height 73=16
+Row Height 74=16
+Row Height 75=16
+Row Height 76=16
+Row Height 77=16
+Row Height 78=16
+Row Height 79=16
+Row Height 80=16
+Row Height 81=16
+Row Height 82=16
+Row Height 83=16
+Row Height 84=16
+Row Height 85=16
+
+[Printer:Highlight Lowest]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=1
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:prodhead]
+Name=Arial
+Color=0
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:GuaranteedCol]
+Name=Arial
+Color=0
+Size=8
+fsBold=1
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=1
+
+[Printer:CurrentCol]
+Name=Arial
+Color=0
+Size=8
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=1
+Width=110
+
+[Printer:PVAC]
+Name=Arial
+Color=0
+Size=8
+fsBold=1
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:Accum]
+Name=Arial
+Color=0
+Size=10
+fsBold=1
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:Index]
+Name=Arial
+Color=0
+Size=8
+fsBold=0
+fsItalic=1
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:]
+GuarOnly=0
+TopMargin=0.5
+LeftMargin=0.25
+RightMargin=0.25
+BottomMargin=0.5
+TopLeftMargin=0.0
+TopRightMargin=0.0
+YearsPerPage=20
+Portrait=0
+SingleCol=0
+Variable Font Size=1
+Years Per Page=20
+OutSideEdge=0
+Vertical Grid=0
+Horizantal Grid=1
+Horizantal Grid ALL=0
+AfterGrid=0.2
+AboveBelow=0
+LineBetween=0
+PrintColLeftJust=0
+
+[Printer:Head]
+Name=Arial
+Color=0
+Size=12
+fsBold=1
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:Foot]
+Name=Arial
+Color=0
+Size=10
+fsBold=0
+fsItalic=1
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:Plans]
+Number=5
+
+[PickWindowPrinter:]
+Left=0
+Top=0
+Width=641
+Height=458
+
+[Pick5Window]
+Left=0
+Top=0
+Width=1023
+Height=742
+Maximized=0
+colwidth0=372
+colwidth1=290
+colwidth2=292
+colwidth3=31
+colwidth4=31
+colwidth5=31
+colwidth6=31
+colwidth7=31
+colwidth8=31
+colwidth9=31
+colwidth10=31
+colwidth11=31
+colwidth12=110
+cbMultilife=0
+
+[Printer:Column Font 12]
+Name=Arial
+Color=-2147483640
+Size=10
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Summary Page Body]
+Name=Arial
+Color=0
+Size=12
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+
+[Printer:Column Ren Font 1]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 2]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 3]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 4]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 5]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 6]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 7]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 8]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 9]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 10]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 11]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110
+
+[Printer:Column Ren Font 12]
+Name=Arial
+Color=-2147483640
+Size=9
+fsBold=0
+fsItalic=0
+fsUnderline=0
+fsStrikeOut=0
+bkColor R=255
+bkColor B=255
+bkColor G=255
+Justify=2
+Width=110

@@ -1,0 +1,17 @@
+[Names]
+1=initial example
+[Subjects]
+1=Forms for your life insurance from {agency}
+[BodyCount]
+1=7
+[Body_1]
+0=The forms for {client1} are attached to this email.
+1=
+2=Please print and complete each of the attached forms:
+3=
+4={formlist}
+5=
+6=If you have any questions please call:  {agent}
+7=
+[Count]
+General=1

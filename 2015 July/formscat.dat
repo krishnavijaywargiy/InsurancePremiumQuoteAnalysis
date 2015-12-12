@@ -1,0 +1,162 @@
+
+ALLS|LI|Life New  Business
+ALLS|AN|Annuity New Business
+ALLS|LS|Life Policy Service
+ALLS|AS|Annuity Contract Service
+AMGE|TA|Select-a-Term
+AMGE|TI|ROPTerm
+AMGE|UA|Secure Lifetime GUL II
+AMGE|UE|Elite Indexed UL
+AMGE|DA|Deferred Annuity
+AMGE|IA|Immediate Annuity
+AMGE|AI|Accident Insurance
+AMGE|HE|Health Insurance
+AXAA|TA|ART Series 151X
+AXAA|TL|Level Term Series 151X
+AXAA|GI|Guaranteed Issue - Incentive Life
+AXAA|SE|Policyholder Service
+AXAA|VA|Variable Life
+AXAA|IL|Indexed Life
+AXAA|FP|Flexible Premium UL
+AXAA|IS|Interest Sensitive Whole Life
+BANN|TB|Term Life
+BANN|UB|Universal Life
+BANN|AR|Agent Resources
+CETN|AA|Term Life Insurance
+GEAN|AB|Colony Term
+GEAN|CB|GPX-One  (Whole Life)
+GEAN|CC|Guaranteed One  (Whole Life)
+GEAN|D*|- - - Universal Life - - -
+GEAN|DC|GenGuard UL
+GEAN|DD|Lifetime Provider  (Survivor UL)
+GEAN|DF|Lifetime Protector SG
+GEAN|DH|Life Ready UL
+GEAN|DG|Life Ready UL II
+GEAN|DL|RetireReady Protection Plus  (VUL)
+GEAN|DM|RetireReady Accumulator  (VUL)
+GECA|AB|Colony Term
+GECA|AE|Life Quick Request - Term
+GECA|D*|- - - Universal Life - - -
+GECA|DC|GenGuard UL
+GECA|DF|Lifetime Protector SG
+GECA|DD|Life Ready UL
+GECA|DG|Life Ready UL II
+GRAN|TB|Term Life
+LNLI|TR|Term 
+LNLI|UL|Universal Life 
+LNLI|GN|General Forms
+LNNA|TR|Term Life
+LNNA|UL|Universal Life
+LNNA|UI|Indexed Universal Life
+LNNA|GN|General Forms
+NORA|AD|Addvantage Term
+NORA|BI|Builder IUL
+NORA|CA|Custom Accumulator
+NORA|CC|Custom GrowthCV
+NORA|CG|Custom Guarantee
+NORA|CT|Custom TermGUL
+NORA|GB|Guarantee Builder IUL
+NORA|CB|Rapid Builder IUL
+NORA|SG|Survivorship GIUL
+NORA|TI|Tele-Interviewing
+SEDE|UB|Universal Life
+SEDE|VB|Variable U/L
+SEDE|ZB|Agent Contracting
+PROT|AA|Term Life
+PROT|DA|Universal Life
+PROT|HA|Survivorship UL
+PROT|CA|Critical Illness
+PROT|YA|Agent Forms 
+PROT|ZA|Policy Holder Services
+PRUC|TX|Term - Xpress (250K or less)
+PRUC|TR|Term - (over 250K)
+PRUC|UX|Univeral Life - Xpress (250K or less)
+PRUC|UL|Univeral Life - (over 250K)
+PRUC|SL|Survivorship Univeral Life
+PRUC|VL|Variable Universal Life
+PRUC|LT|Long Term Care
+PRUC|AN|Annuities
+PRUC|SI|Corporate Owned Life Insurance
+PRUC|ZB|Agent Contracting
+PRUJ|TX|Term - Xpress (250K or less)
+PRUJ|TR|Term - (over 250K)
+PRUJ|UL|Univeral Life
+PRUJ|WL|Whole Life
+PRUJ|SL|Survivorship Univeral Life
+PRUJ|VL|Variable Universal Life
+PRUJ|LT|LongTerm Care
+PRUJ|AN|Annuities
+PRUJ|SI|Corporate Owned Life Insurance
+PRUJ|ZB|Agent Contracting
+RELL|TB|Term Life
+RELL|UB|Universal Life
+RELL|AR|Agent Resources
+RELR|TB|Term Life
+RELR|UB|Universal Life
+RELR|VB|Variable U/L
+RELR|ZB|Agent Contracting
+SAGI|TB|Gold 10/20/30 ZZ Term 
+SAGI|TC|Platinum 10/20/30 Term
+SAGI|UB|Platinum No Lapse UL
+SAGI|UC|Platinum UL
+SAGI|ID|Platinum Indexed UL
+SAGI|WA|Gold Whole Life
+SAGI|IA|Gold Indexed 7 Pay
+SAGI|IB|Gold Indexed SPWL
+SAGI|IC|Gold ISSPWL
+SAGI|IE|Platinum Sage Advantage FIA
+SAGI|DA|Gold Sage Choice SPDA
+SAGI|DB|Gold SPIA
+SAVE|AA|Term Life Insurance
+TRAF|AA|Policyholder Service
+TRAF|T*|==== Term Life ====
+TRAF|TD|Trendsetter® Super Series 10, 15, 20, 30 in New York
+TRAF|TE|Trendsetter® Super YRT in New York 
+TRAF|W*|==== Whole Life ====
+TRAF|WD|TransSecureSM ISWL NY
+TRAF|WE|TransSecure NY 412(i)
+TRAF|B*|==== Universal Life ====
+TRAF|BS|TransAce® NY
+TRAF|BR|TransUltra® NY
+TRAF|CD|TransUltra LP NY
+TRAF|CE|TransUltra SP NY
+TRAF|CF|TransUltra Plus NY
+TRAF|CB|TransMax (NY)
+TRAF|CC|TransUltimate UL (NY)
+TRAF|BT|TransAce® Survivor NY
+TRAF|CJ|TransSurvivor (NY)
+TRAF|CG|TransMax Survivor (NY)
+TRAF|CK|TransUltimate Survivor (NY)
+TRAF|CI|TransSurvivor EX
+TRAF|VU|Variable Universal Life
+TRAF|M*|==== Marketing Groups ====
+TRAF|MA|FOLI/Affinity
+TRAF|MB|NANM
+TRAN|T*|==== Term Life ====
+TRAN|TU|Trendsetter Super Term  10, 15, 20, 25 & 30
+TRAN|U*|==== Universal Life ====
+TRAN|BB|TransACE® 
+TRAN|FE|Final Expense
+TRAN|UL|Universal Life
+TRAN|IU|Indexed Universal Life
+TRAN|SU|Survivorship Universal Life
+TRAN|VU|Variable Universal Life
+TRAN|W*|==== Whole Life ====
+TRAN|WL|Whole Life
+WILP|LI|Life Insurance
+WILP|AN|Annuity
+WILP|AR|Agent Resources
+CINN|TL|Term Lite
+CINN|TT|Term Traditional
+CINN|TJ|Term Juvenile
+CINN|UL|Universal Lite
+CINN|UT|Universal Traditional
+CINN|UJ|Universal Juvenile
+CINN|PL|Whole Life Lite
+CINN|PT|Whole Life Traditional
+CINN|PJ|Whole Life Juvenile
+CINN|AN|Annuity
+CINN|DI|Disability Income
+CINN|WL|Worksite Life
+CINN|WD|Worksite Disability
+CINN|AC|Agent Contracting and Information
