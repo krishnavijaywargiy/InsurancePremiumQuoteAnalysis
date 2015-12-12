@@ -1,0 +1,2103 @@
+          AAA Life Insurance Company              
+AAAL,10 Year Level Term,3
+AAAP,10 Year Level Term  (Super Pfd/Std Plus),3
+AOAL,10 Year Level Term  (2008),3
+AOAP,10 Year Level Term  (Super/Std Plus/08),3
+AAAL,15 Year Level Term,4
+AAAP,15 Year Level Term  (Super Pfd/Std Plus),4
+AOAL,15 Year Level Term  (2008),4
+AOAP,15 Year Level Term  (Super/Std Plus/08),4
+AAAL,20 Year Level Term,5
+AAAP,20 Year Level Term  (Super Pfd/Std Plus),5
+AOAL,20 Year Level Term  (2008),5
+AOAP,20 Year Level Term  (Super/Std Plus/08),5
+AAAL,25 Year Level Term,6
+AAAP,25 Year Level Term  (Super Pfd/Std Plus),6
+AOAL,25 Year Level Term  (2008),6
+AOAP,25 Year Level Term  (Super/Std Plus/08),6
+AAAL,30 Year Level Term,7
+AAAP,30 Year Level Term  (Super Pfd/Std Plus),7
+AOAL,30 Year Level Term  (2008),7
+AOAP,30 Year Level Term  (Super/Std Plus/08),7
+AAAL,15 Year Level Term  (with ROP),J
+AAAP,15 Year Level Term  (Super Pfd/Std Plus),J
+AOAL,15 Year Level Term  (with ROP / 2008),J
+AOAP,15 Year Level Term  (Super/Std Plus/08),J
+AAAL,20 Year Level Term  (with ROP),K
+AAAP,20 Year Level Term  (Super Pfd/Std Plus),K
+AOAL,20 Year Level Term  (with ROP / 2008),K
+AOAP,20 Year Level Term  (Super/Std Plus/08),K
+AAAL,25 Year Level Term  (with ROP),L
+AAAP,25 Year Level Term  (Super Pfd/Std Plus),L
+AOAL,25 Year Level Term  (with ROP / 2008),L
+AOAP,25 Year Level Term  (Super/Std Plus/08),L
+AAAL,30 Year Level Term  (with ROP),M
+AAAP,30 Year Level Term  (Super Pfd/Std Plus),M
+AOAL,30 Year Level Term  (with ROP / 2008),M
+AOAP,30 Year Level Term  (Super/Std Plus/08),M
+          Allianz Life Insurance Company of NA    
+ALSI,Term Life 2009 - 10 Year,3
+ALSU,Term Life 2009 - 10 Year  (Ultra),3
+ALSS,Term Life 2009 - 10 Year  (Super),3
+ALSP,Term Life 2009 - 10 Year  (Pfd Plus),3
+ALSI,Term Life 2009 - 20 Year,5
+ALSU,Term Life 2009 - 20 Year  (Ultra),5
+ALSS,Term Life 2009 - 20 Year  (Super),5
+ALSP,Term Life 2009 - 20 Year  (Pfd Plus),5
+ALSI,Term Life 2009 - 30 Year,7
+ALSU,Term Life 2009 - 30 Year  (Ultra),7
+ALSS,Term Life 2009 - 30 Year  (Super),7
+ALSP,Term Life 2009 - 30 Year  (Pfd Plus),7
+ALWI,Generation Planner II - U/L no lapse,8
+ALWS,Generation Planner II  (P+ Super/R+ Sel),8
+ALUI,Generation Planner II  (1980 CSO),8
+ALUS,Generation Planner II  (P+ Super/R+ Sel),8
+          Allstate Life Insurance Co of New York  
+AYGL,TrueTerm - 10 Year,3
+AYGM,TrueTerm - 10 Year (P+ Elite# R+ Select),3
+AYGL,TrueTerm - 15 Year,4
+AYGM,TrueTerm - 15 Year (P+ Elite# R+ Select),4
+AYGL,TrueTerm - 20 Year,5
+AYGM,TrueTerm - 20 Year (P+ Elite# R+ Select),5
+AYGL,TrueTerm - 30 Year,7
+AYGM,TrueTerm - 30 Year (P+ Elite# R+ Select),7
+          American-Amicable Life Insurance of TX  
+AMAM,Easy Term 10  (Simplified Issue),3
+AMAM,Easy Term 20  (Simplified Issue),5
+AMAM,Easy Term 30  (Simplified Issue),7
+AMAM,Easy Term 20 w/ROP  (Simplified 06-9691),K
+AMBM,Easy Term 20 w/ROP  (Simplified 07-9734),K
+AMAM,Easy Term 30 w/ROP  (Simplified 06-9691),M
+AMBM,Easy Term 30 w/ROP  (Simplified 07-9734),M
+          American Community Mutual Insurance     
+AMCO,Term 10 Level Term Life,3
+AMCO,Term 15 Level Term Life,4
+AMCO,Term 20 Level Term Life,5
+          American Fidelity Assurance Company     
+AMFI,T2 EZ 20 Year,5
+AMFI,T2 EZ 25 Year,6
+AMFI,T2 EZ 30 Year,7
+          American General Life Insurance Company 
+ARSG,Select-a-Term - 10 Year,3
+ARSH,Select-a-Term - 10 Year  (Plus),3
+ARXG,Select-a-Term - 10 Year  (OR),3
+ARXH,Select-a-Term - 10 Year  (Plus/OR),3
+ARCG,LTG Ultra-C 10,3
+ARCH,LTG Ultra-C 10  (Plus),3
+ARSG,Select-a-Term - 15 Year,4
+ARSH,Select-a-Term - 15 Year  (Plus),4
+ARXG,Select-a-Term - 15 Year  (OR),4
+ARXH,Select-a-Term - 15 Year  (Plus/OR),4
+ARCG,LTG Ultra-C 15,4
+ARCH,LTG Ultra-C 15  (Plus),4
+ARSG,Select-a-Term - 20 Year,5
+ARSH,Select-a-Term - 20 Year  (Plus),5
+ARXG,Select-a-Term - 20 Year  (OR),5
+ARXH,Select-a-Term - 20 Year  (Plus/OR),5
+ARCG,LTG Ultra-C 20,5
+ARCH,LTG Ultra-C 20  (Plus),5
+ARSG,Select-a-Term - 25 Year,6
+ARSH,Select-a-Term - 25 Year  (Plus),6
+ARXG,Select-a-Term - 25 Year  (OR),6
+ARXH,Select-a-Term - 25 Year  (Plus/OR),6
+ARSG,Select-a-Term - 30 Year,7
+ARSH,Select-a-Term - 30 Year  (Plus),7
+ARXG,Select-a-Term - 30 Year  (OR),7
+ARXH,Select-a-Term - 30 Year  (Plus/OR),7
+ARCG,LTG Ultra-C 30,7
+ARCH,LTG Ultra-C 30  (Plus),7
+ASRG,Select-a-Term - 35 Year,9
+ASRH,Select-a-Term - 35 Year  (Plus),9
+ARSG,Select-a-Term - Level to 65,T
+ARSH,Select-a-Term - Level to 65  (Plus),T
+ARXG,Select-a-Term - Level to 65  (2007),T
+ARXH,Select-a-Term - Level to 65  (Plus/07),T
+ARSG,Select-a-Term - Level to 70,U
+ARSH,Select-a-Term - Level to 70  (Plus),U
+ARXG,Select-a-Term - Level to 70  (2007),U
+ARXH,Select-a-Term - Level to 70  (Plus/07),U
+ARSG,Select-a-Term - Level to 75,V
+ARSH,Select-a-Term - Level to 75  (Plus),V
+ARXG,Select-a-Term - Level to 75  (2007),V
+ARXH,Select-a-Term - Level to 75  (Plus/07),V
+ARSG,ROP Select-a-Term - 15 Year,J
+ARSH,ROP Select-a-Term - 15 Year  (Plus),J
+ARSG,ROP Select-a-Term - 20 Year,K
+ARSH,ROP Select-a-Term - 20 Year  (Plus),K
+ARSG,ROP Select-a-Term - 25 Year,L
+ARSH,ROP Select-a-Term - 25 Year  (Plus),L
+ARSG,ROP Select-a-Term - 30 Year,M
+          American General Life Insurance Company 
+ARSH,ROP Select-a-Term - 30 Year  (Plus),M
+ARSG,ROP Select-a-Term - Level to 65,W
+ARSH,ROP Select-a-Term - Level to 65  (Plus),W
+ARSG,ROP Select-a-Term - Level to 70,X
+ARSH,ROP Select-a-Term - Level to 70  (Plus),X
+ARSG,ROP Select-a-Term - Level to 75,Y
+ARSH,ROP Select-a-Term - Level to 75  (Plus),Y
+ARCG,ContinUL Extend - no lapse U/L,8
+ARCH,ContinUL Extend - no lapse U/L  (Plus),8
+ARXG,ContinUL Extend - no lapse U/L  ($500K),8
+ARXH,ContinUL Extend - no lapse U/L  (+/500K,8
+AURG,Elite UG 07 - no lapse to age 121,8
+AURH,Elite UG 07 - no lapse to 121 (P+),8
+          American General Life Insurance Company 
+ASAG,Select-a-Term - 12 Year,F
+ASAH,Select-a-Term - 12 Year  (Plus),F
+ASBG,Select-a-Term - 16 Year,F
+ASBH,Select-a-Term - 16 Year  (Plus),F
+ASCG,Select-a-Term - 17 Year,F
+ASCH,Select-a-Term - 17 Year  (Plus),F
+ASDG,Select-a-Term - 18 Year,F
+ASDH,Select-a-Term - 18 Year  (Plus),F
+ASEG,Select-a-Term - 19 Year,F
+ASEH,Select-a-Term - 19 Year  (Plus),F
+ASFG,Select-a-Term - 21 Year,F
+ASFH,Select-a-Term - 21 Year  (Plus),F
+ASGG,Select-a-Term - 22 Year,F
+ASGH,Select-a-Term - 22 Year  (Plus),F
+ASHG,Select-a-Term - 23 Year,F
+ASHH,Select-a-Term - 23 Year  (Plus),F
+ASIG,Select-a-Term - 24 Year,F
+ASIH,Select-a-Term - 24 Year  (Plus),F
+ASJG,Select-a-Term - 26 Year,F
+ASJH,Select-a-Term - 26 Year  (Plus),F
+ASKG,Select-a-Term - 27 Year,F
+ASKH,Select-a-Term - 27 Year  (Plus),F
+ASLG,Select-a-Term - 28 Year,F
+ASLH,Select-a-Term - 28 Year  (Plus),F
+ASMG,Select-a-Term - 29 Year,F
+ASMH,Select-a-Term - 29 Year  (Plus),F
+ASNG,Select-a-Term - 31 Year,F
+ASNH,Select-a-Term - 31 Year  (Plus),F
+ASOG,Select-a-Term - 32 Year,F
+ASOH,Select-a-Term - 32 Year  (Plus),F
+ASPG,Select-a-Term - 33 Year,F
+ASPH,Select-a-Term - 33 Year  (Plus),F
+ASQG,Select-a-Term - 34 Year,F
+ASQH,Select-a-Term - 34 Year  (Plus),F
+ARLS,Select-a-Term 10    (Special),F
+ARMS,Select-a-Term 15    (Special),F
+ARNS,Select-a-Term 20    (Special),F
+AROS,Select-a-Term 25    (Special),F
+ARPS,Select-a-Term 30    (Special),F
+ARQS,ROP Select-a-Term - 15 Year  (Special),F
+ARRS,ROP Select-a-Term - 20 Year  (Special),F
+ARSS,ROP Select-a-Term - 25 Year  (Special),F
+ARTS,ROP Select-a-Term - 30 Year  (Special),F
+ARAS,LTG Ultra-C 10  (Special / 2006),F
+ARBS,LTG Ultra-C 15  (Special / 2006),F
+ARCS,LTG Ultra-C 20  (Special / 2006),F
+ARDS,LTG Ultra-C 30  (Special / 2006),F
+ARIS,ROP Term 15     (Special / 2006),F
+ARJS,ROP Term 20     (Special / 2006),F
+          American General Life Insurance Company 
+ARKS,ROP Term 30     (Special / 2006),F
+          American General Life Insurance Company 
+ASFG,ROP Select-a-Term - 21 Year,N
+ASFH,ROP Select-a-Term - 21 Year  (Plus),N
+ASGG,ROP Select-a-Term - 22 Year,N
+ASGH,ROP Select-a-Term - 22 Year  (Plus),N
+ASHG,ROP Select-a-Term - 23 Year,N
+ASHH,ROP Select-a-Term - 23 Year  (Plus),N
+ASIG,ROP Select-a-Term - 24 Year,N
+ASIH,ROP Select-a-Term - 24 Year  (Plus),N
+ASJG,ROP Select-a-Term - 26 Year,N
+ASJH,ROP Select-a-Term - 26 Year  (Plus),N
+ASKG,ROP Select-a-Term - 27 Year,N
+ASKH,ROP Select-a-Term - 27 Year  (Plus),N
+ASLG,ROP Select-a-Term - 28 Year,N
+ASLH,ROP Select-a-Term - 28 Year  (Plus),N
+ASMG,ROP Select-a-Term - 29 Year,N
+ASMH,ROP Select-a-Term - 29 Year  (Plus),N
+ASNG,ROP Select-a-Term - 31 Year,N
+ASNH,ROP Select-a-Term - 31 Year  (Plus),N
+ASOG,ROP Select-a-Term - 32 Year,N
+ASOH,ROP Select-a-Term - 32 Year  (Plus),N
+ASPG,ROP Select-a-Term - 33 Year,N
+ASPH,ROP Select-a-Term - 33 Year  (Plus),N
+ASQG,ROP Select-a-Term - 34 Year,N
+ASQH,ROP Select-a-Term - 34 Year  (Plus),N
+ASRG,ROP Select-a-Term - 35 Year,N
+ASRH,ROP Select-a-Term - 35 Year  (Plus),N
+          The American Home Life Insurance Company
+AMEH,ART - Annual Renewable Term,1
+          American International Life Assur Co NY 
+AAIL,MegaTerm(NY) 10 - 10 Year Term,3
+          American National Insurance Company     
+AMNT,ANICO Select 10,3
+AMNP,ANICO Select 10  (Plus),3
+AMNT,ANICO Select 15,4
+AMNP,ANICO Select 15  (Plus),4
+AMNT,ANICO Select 20,5
+AMNP,ANICO Select 20  (Plus),5
+AMNT,ANICO Select 30,7
+AMNP,ANICO Select 30  (Plus),7
+AMNT,ANICO Select 15 with ROP,J
+AMNP,ANICO Select 15 with ROP  (Plus),J
+AMNT,ANICO Select 20 with ROP,K
+AMNP,ANICO Select 20 with ROP  (Plus),K
+AMNT,ANICO Select 30 with ROP,M
+AMNP,ANICO Select 30 with ROP  (Plus),M
+ANNT,LTG Universal Life - pay to 100,P
+ANNP,LTG Universal Life - pay to 100 (Plus),P
+          American United Life Insurance Company  
+AMUN,Term Protector Series III - LTP 10/10,3
+AMUS,LTP 10/10  (P+ Elite / R+ Preferred),3
+AMUN,Term Protector Series III - LTP 15/15,4
+AMUS,LTP 15/15  (P+ Elite / R+ Preferred),4
+AMUN,Term Protector Series III - LTP 20/20,5
+AMUS,LTP 20/20  (P+ Elite / R+ Preferred),5
+          Americo Financial Life and Annuity Ins. 
+ARMT,Home Mortgage Series - 15/15 year,4
+ARXT,Home Mortgage Series - 15/5 year,4
+ARMT,Home Mortgage Series - 20/20 year,5
+ARXT,Home Mortgage Series - 20/5 year,5
+ARMT,Home Mortgage Series - 25/25 year,6
+ARXT,Home Mortgage Series - 25/5 year,6
+ARMT,Home Mortgage Series - 30/30 year,7
+ARXT,Home Mortgage Series - 30/5 year,7
+ARMT,Home Mortgage Series - 15/15 year/ROP,J
+ARXT,Home Mortgage Series - 15/5 year/ROP,J
+ARMT,Home Mortgage Series - 20/20 year/ROP,K
+ARXT,Home Mortgage Series - 20/5 year/ROP,K
+ARMT,Home Mortgage Series - 25/25 year/ROP,L
+ARXT,Home Mortgage Series - 25/5 year/ROP,L
+ARMT,Home Mortgage Series - 30/30 year/ROP,M
+ARXT,Home Mortgage Series - 30/5 year/ROP,M
+          Ameritas Life Insurance Corporation     
+AMTL,Low-Load 10 Year Term,3
+AMTP,Low-Load 10 Year Term  (Super Preferred),3
+AMTL,Low-Load 20 Year Term,5
+AMTP,Low-Load 20 Year Term  (Super Preferred),5
+AMTL,Low-Load 30 Year Term,7
+AMTP,Low-Load 30 Year Term  (Super Preferred),7
+          Assurity Life Insurance Company         
+ASTU,Non Med Term 350 - 10 Year Level,3
+ASTP,Non Med Term 350 - 10 Year  (Select+),3
+ASSU,Non Med Term - 10 Year Level,3
+ASTU,Non Med Term 350 - 15 Year Level,4
+ASTP,Non Med Term 350 - 15 Year  (Select+),4
+ASSU,Non Med Term - 15 Year Level,4
+ASTU,Non Med Term 350 - 20 Year Level,5
+ASTP,Non Med Term 350 - 20 Year  (Select+),5
+ASSU,Non Med Term - 20 Year Level,5
+ASTU,Non Med Term 350 - 30 Year Level,7
+ASTP,Non Med Term 350 - 30 Year  (Select+),7
+ASSU,Non Med Term - 30 Year Level,7
+          Aurora National Life Assurance Company  
+AURO,10-Year Term,3
+AUOP,10-Year Term  (issue ages 71-75),3
+          Aviva Life and Annuity Company          
+AVIV,Annual Renewal Term,1
+AVIP,Annual Renewal Term  (Premier/Standard+),1
+AVWV,Annual Renewal Term  (WA),1
+AVWP,Annual Renewal Term  (Premier/Std+/WA),1
+AVIV,Term 10,3
+AVIP,Term 10  (Premier P+ / Standard+ R+),3
+AVWV,Term 10  (WA),3
+AVWP,Term 10  (Premier P+ / Standard+ R+ /WA),3
+AVIV,Term 20,5
+AVIP,Term 20  (Premier P+ / Standard+ R+),5
+AVWV,Term 20  (WA),5
+AVWP,Term 20  (Premier P+ / Standard+ R+ /WA),5
+AVIV,Term 30,7
+AVIP,Term 30  (Premier P+ / Standard+ R+),7
+AVWV,Term 30  (WA),7
+AVWP,Term 30  (Premier P+ / Standard+ R+ /WA),7
+AMUV,Advantage Builder Series II w/NLG,8
+AMUW,Advantage Builder Series II w/NLG  (P+),8
+AMMV,Advantage Builder Series II w/NLG  175k+,8
+AMMW,Advantage Builder Series II (P+) (175k),8
+AVIV,Guarantee UL Solution,8
+AVIP,Guarantee UL Solution  (Premier),8
+AMTV,Advantage Builder Indexed UL w/NLG,8
+AMTW,Advantage Builder Indexed UL w/NLG  (P+),8
+AMUV,Advantage Builder - Pay to 100,P
+AMUW,Advantage Builder - Pay to 100     (P+),P
+AMMV,Advantage Builder - Pay to 100     175k+,P
+AMMW,Advantage Builder - Pay to 100 (P+/175k),P
+AVIV,Guarantee UL Solution - Pay to 100,P
+AVIP,Guarantee UL Solution - Pay to 100  (P+),P
+AMUV,Advantage Builder - Pay to 65,Q
+AMUW,Advantage Builder - Pay to 65      (P+),Q
+AMMV,Advantage Builder - Pay to 65      175k+,Q
+AMMW,Advantage Builder - Pay to 65  (P+/175k),Q
+AVIV,Guarantee UL Solution - Pay to 65,Q
+AVIP,Guarantee UL Solution - Pay to 65   (P+),Q
+AMUV,Advantage Builder - 20 Pay,R
+AMUW,Advantage Builder - 20 Pay         (P+),R
+AMMV,Advantage Builder - 20 Pay         175k+,R
+AMMW,Advantage Builder - 20 Pay     (P+/175k),R
+AVIV,Guarantee UL Solution - 20 Pay,R
+AVIP,Guarantee UL Solution - 20 Pay      (P+),R
+AMUV,Advantage Builder - 10 Pay,S
+AMUW,Advantage Builder - 10 Pay         (P+),S
+AMMV,Advantage Builder - 10 Pay         175k+,S
+AMMW,Advantage Builder - 10 Pay     (P+/175k),S
+AVIV,Guarantee UL Solution - 10 Pay,S
+AVIP,Guarantee UL Solution - 10 Pay      (P+),S
+AMUV,Advantage Builder - Single Pay,O
+          Aviva Life and Annuity Company          
+AMUW,Advantage Builder - Single Pay     (P+),O
+AMMV,Advantage Builder - Single Pay     175k+,O
+AMMW,Advantage Builder - Single Pay (P+/175k),O
+AVIV,Guarantee UL Solution - Single Pay,O
+AVIP,Guarantee UL Solution - Single Pay  (P+),O
+          Aviva Life and Annuity of New York      
+AVNV,Annual Renewal Term,1
+AVNP,Annual Renewal Term  (Premier/Preferred),1
+AVNV,Term 10,3
+AVNP,Term 10  (Premier P+ / Preferred R+),3
+AVNV,Term 20,5
+AVNP,Term 20  (Premier P+ / Preferred R+),5
+AVNV,Term 30,7
+AVNP,Term 30  (Premier P+ / Preferred R+),7
+AVUE,Empire Solution Series II w/NLG,8
+AVUP,Empire Solution Series II w/NLG  (P+),8
+AVYE,Empire Solution Series II w/NLG  175k+,8
+AVYP,Empire Solution Series II (P+) (175k),8
+AVNV,Guarantee UL Solution,8
+AVNP,Guarantee UL Solution  (Premier),8
+          AXA Equitable Life Insurance Company    
+AXTA,Annual Renewable Term  (149),1
+AXTP,Annual Renewable Term (Elite/Plus / 149),1
+AXDA,Annual Renewable Term  (149) w/10%,1
+AXDP,Annual Renewable Term (Elite/+/149/10%),1
+AXAA,Annual Renewable Term  (147),1
+AXAP,Annual Renewable Term (Elite/Plus / 147),1
+AXTO,TermOne (SM) - One Year Non-Renewable,1
+AXTA,Equitable Term 10  (149),3
+AXTP,Equitable Term 10  (Elite/Plus / 149),3
+AXAA,Equitable Term 10  (147),3
+AXAP,Equitable Term 10  (Elite/Plus / 147),3
+AXTA,Equitable Term 15  (149),4
+AXTP,Equitable Term 15  (Elite/Plus / 149),4
+AXAA,Equitable Term 15  (147),4
+AXAP,Equitable Term 15  (Elite/Plus / 147),4
+AXTA,Equitable Term 20  (149),5
+AXTP,Equitable Term 20  (Elite/Plus / 149),5
+AXAA,Equitable Term 20  (147),5
+AXAP,Equitable Term 20  (Elite/Plus / 147),5
+AXTA,Equitable Term 30  (149),7
+AXTP,Equitable Term 30  (Elite/Plus / 149),7
+AXAA,Equitable Term 30  (147),7
+AXAP,Equitable Term 30  (Elite/Plus / 147),7
+AXAA,Equitable ROP Term 20  (148),K
+AXAP,Equitable ROP Term 20  (Plus / 148),K
+AXAA,Equitable ROP Term 25  (148),L
+AXAP,Equitable ROP Term 25  (Plus / 148),L
+AXAA,Equitable ROP Term 30  (148),M
+AXAP,Equitable ROP Term 30  (Plus / 148),M
+          AXA Equitable Life Insurance Company    
+AXYA,ART  (149)  (Career Agents),1
+AXYP,ART (Elite/Plus / 149) (Career Agents),1
+AXYA,Equitable T10  (149) (Career Agents),3
+AXYP,Equitable T10  (Elite/Plus/149) (Career),3
+AXYA,Equitable T15  (149) (Career Agents),4
+AXYP,Equitable T15  (Elite/Plus/149) (Career),4
+AXYA,Equitable T20  (149) (Career Agents),5
+AXYP,Equitable T20  (Elite/Plus/149) (Career),5
+AXYA,Equitable T30  (149) (Career Agents),7
+AXYP,Equitable T30  (Elite/Plus/149) (Career),7
+AXYA,Equitable ROP T20  (148) (Career Agents),K
+AXYP,Equitable ROP T20  (Plus/148) (Career),K
+AXSA,Simplified Issue ROP 20  (Career Agents),K
+AXYA,Equitable ROP T25  (148) (Career Agents),L
+AXYP,Equitable ROP T25  (Plus/148) (Career),L
+AXSA,Simplified Issue ROP 25  (Career Agents),L
+AXYA,Equitable ROP T30  (148) (Career Agents),M
+AXYP,Equitable ROP T30  (Plus/148) (Career),M
+AXSA,Simplified Issue ROP 30  (Career Agents),M
+          Baltimore Life Insurance Company        
+BALT,Secure Solution Protector - 10 Year Term,3
+BALT,Secure Solution Protector - 15 Year Term,4
+BALT,Secure Solution Protector - 20 Year Term,5
+BALT,Secure Solution Protector - 30 Year Term,7
+          Banner Life Insurance Company           
+BANS,OPTerm 10 - 10 Year Term,3
+BANN,OPTerm 10 - 10 Year Term  (Plus),3
+BONS,OPTerm 10 - 10 Year Term  (OR),3
+BONN,OPTerm 10 - 10 Year Term  (Plus/OR),3
+BANS,OPTerm 15 - 15 Year Term,4
+BANN,OPTerm 15 - 15 Year Term  (Plus),4
+BONS,OPTerm 15 - 15 Year Term  (OR),4
+BONN,OPTerm 15 - 15 Year Term  (Plus/OR),4
+BANS,OPTerm 20 - 20 Year Term,5
+BANN,OPTerm 20 - 20 Year Term  (Plus),5
+BONS,OPTerm 20 - 20 Year Term  (OR),5
+BONN,OPTerm 20 - 20 Year Term  (Plus/OR),5
+BANS,OPTerm 30 - 30 Year Term,7
+BANN,OPTerm 30 - 30 Year Term  (Plus),7
+BONS,OPTerm 30 - 30 Year Term  (OR),7
+BONN,OPTerm 30 - 30 Year Term  (Plus/OR),7
+BANS,Life Umbrella UL 120 - Guaranteed to 120,8
+BANN,Life Umbrella UL 120 - Gtd to 120 (Plus),8
+          CM Life Insurance Company               
+CGNN,Universal Life 2 Guaranteed,8
+CGNP,Universal Life 2 Guaranteed (Ultra Pfd),8
+          Central Reserve Life Insurance Company  
+CERE,10 Year Level Term Plan,3
+          Central States Health & Life Co of Omaha
+CEST,10 Year Level Premium Term,3
+          Centrian Life Insurance                 
+CETN,Term Guaranteed 10  (CT),3
+CETP,Term Guaranteed 10  (CT / Pf+/ Rg+),3
+CETN,Term Guaranteed 15  (CT),4
+CETP,Term Guaranteed 15  (CT / Pf+ / Rg+),4
+CETN,Term Guaranteed 20  (CT),5
+CETP,Term Guaranteed 20  (CT / Pf+ / Rg+),5
+CETN,Term Guaranteed 25  (CT),6
+CETP,Term Guaranteed 25  (CT / Pf+ / Rg+),6
+CETN,Term Guaranteed 30  (CT),7
+CETP,Term Guaranteed 30  (CT / Pf+ / Rg+),7
+          Cincinnati Life Insurance Company       
+CINN,LifeHorizons Termsetter 10,3
+CINP,LifeHorizons Termsetter 10  (Sup/Sel),3
+CINN,LifeHorizons Termsetter 15,4
+CINP,LifeHorizons Termsetter 15  (Sup/Sel),4
+CIDN,LifeHorizons Termsetter 15  (MD),4
+CIDP,LifeHorizons Termsetter 15  (Sup/Sel/MD),4
+CINN,LifeHorizons Termsetter 20,5
+CINP,LifeHorizons Termsetter 20  (Sup/Sel),5
+CINN,LifeHorizons Termsetter 25,6
+CINP,LifeHorizons Termsetter 25  (Sup/Sel),6
+CINN,LifeHorizons Termsetter 30,7
+CINP,LifeHorizons Termsetter 30  (Sup/Sel),7
+CIDN,LifeHorizons Termsetter 30  (MD),7
+CIDP,LifeHorizons Termsetter 30  (Sup/Sel/MD),7
+CINN,LifeHorizons Termsetter Plus 15  (w/ROP),J
+CINP,Termsetter Plus 15  (w/ROP) (Sup/Sel),J
+CINN,LifeHorizons Termsetter Plus 20  (w/ROP),K
+CINP,Termsetter Plus 20  (w/ROP) (Sup/Sel),K
+CINN,LifeHorizons Termsetter Plus 25  (w/ROP),L
+CINP,Termsetter Plus 25  (w/ROP) (Sup/Sel),L
+CINN,LifeHorizons Termsetter Plus 30  (w/ROP),M
+CINP,Termsetter Plus 30  (w/ROP) (Sup/Sel),M
+CIRN,Life Horizons UL 120,P
+CIRP,Life Horizons UL 120  (Select Plus),P
+          Columbian Life Insurance Company        
+COCL,Term Line 10 - 10 Year R&C Term,3
+COFL,CLIC 10 - 10 Year R & C Term,3
+COLC,Term Line 15 - 15 Year R&C Term,4
+COLC,Term Line 20 - 20 Year R&C Term,5
+COBD,Term Line 20 - 20 Year (Low Band),5
+          Columbian Mutual Life Insurance Company 
+COLE,Term Line 10 - 10 Year R&C Term,3
+COEL,Term Line 15 - 15 Year R&C Term,4
+COLE,Term Line 20 - 20 Year R&C Term,5
+COFL,Term Line 20 - 20 Year (Low Band),5
+          Columbus Life Insurance Company         
+COBU,Nautical Term - 10 Year,3
+COBS,Nautical Term - 10 Year  (Super Pfd),3
+COBP,Nautical Term - 10 Year  (Pfd Plus),3
+COOU,Nautical Term - 10 Year  (OR),3
+COOS,Nautical Term - 10 Year  (Super Pfd/OR),3
+COOP,Nautical Term - 10 Year  (Pfd Plus/OR),3
+COBU,Nautical Term - 20 Year,5
+COBS,Nautical Term - 20 Year  (Super Pfd),5
+COBP,Nautical Term - 20 Year  (Pfd Plus),5
+COOU,Nautical Term - 20 Year  (OR),5
+COOS,Nautical Term - 20 Year  (Super Pfd/OR),5
+COOP,Nautical Term - 20 Year  (Pfd Plus/OR),5
+COBU,Nautical Term - 30 Year,7
+COBS,Nautical Term - 30 Year  (Super Pfd),7
+COBP,Nautical Term - 30 Year  (Pfd Plus),7
+COOU,Nautical Term - 30 Year  (OR),7
+COOS,Nautical Term - 30 Year  (Super Pfd/OR),7
+COOP,Nautical Term - 30 Year  (Pfd Plus/OR),7
+COBU,Nautical Term - 20 Year with ROP,K
+COBS,Nautical Term - 20 Year with ROP (Super),K
+COBP,Nautical Term - 20 Year with ROP  (Pfd+),K
+COOU,Nautical Term - 20 Year with ROP (OR),K
+COOS,Nautical Term - 20 Year with ROP (Sp/OR),K
+COOP,Nautical Term - 20 Year with ROP (P+/OR),K
+COBU,Nautical Term - 30 Year with ROP,M
+COBS,Nautical Term - 30 Year with ROP (Super),M
+COBP,Nautical Term - 30 Year with ROP  (Pfd+),M
+COOU,Nautical Term - 30 Year with ROP (OR),M
+COOS,Nautical Term - 30 Year with ROP (Sp/OR),M
+COOP,Nautical Term - 30 Year with ROP (P+/OR),M
+          Companion Life Insurance Company of NY  
+COMP,Term Life 10 - 10 Year Term,3
+COMS,Term Life 10  (Plus),3
+COMP,Term Life 15 - 15 Year Term,4
+COMS,Term Life 15  (Plus),4
+COMP,Term Life 20 - 20 Year Term,5
+COMS,Term Life 20  (Plus),5
+COMP,Term Life 30 - 30 Year Term,7
+COMS,Term Life 30  (Plus),7
+COMP,GUL Complete - Guaranteed to 120,8
+COMS,GUL Complete - Guaranteed to 120  (Plus),8
+          Conseco Insurance Company               
+CMOR,Conseco Mortgage Term - 10 Year,3
+CONS,Conseco Term - 15 Year,4
+CONP,Conseco Term - 15 Year  (Pfd Plus),4
+CMOR,Conseco Mortgage Term - 15 Year,4
+CONS,Conseco Term - 20 Year,5
+CONP,Conseco Term - 20 Year  (Pfd Plus),5
+CMOR,Conseco Mortgage Term - 20 Year,5
+CONS,Conseco Term - 30 Year,7
+CONP,Conseco Term - 30 Year  (Pfd Plus),7
+CMOR,Conseco Mortgage Term - 30 Year,7
+CONS,Conseco Term - 20 Year  (with ROP),K
+CONP,Conseco Term - 20 Year  (with ROP/Pfd+),K
+CMOR,Conseco Mortgage Term - 20 Year  (w/ROP),K
+CONS,Conseco Term - 30 Year  (with ROP),M
+CONP,Conseco Term - 30 Year  (with ROP/Pfd+),M
+CMOR,Conseco Mortgage Term - 30 Year  (w/ROP),M
+          Continental General Insurance Company   
+CONT,Annual Renewable Term to Age 100,1
+CONT,5 Year Renewable Term,2
+          EMC National Life Company               
+EMVU,ULTRA Value Term - 10 Year,3
+EMVV,ULTRA Value Term - 10 Year  (Pfd Plus),3
+EMUU,10-Year Level Term,3
+EMUV,10-Year Level Term  (Super Preferred),3
+EMVU,ULTRA Value Term - 15 Year,4
+EMVV,ULTRA Value Term - 15 Year  (Pfd Plus),4
+EMUU,15-Year Level Term,4
+EMUV,15-Year Level Term  (Super Preferred),4
+EMVU,ULTRA Value Term - 20 Year,5
+EMVV,ULTRA Value Term - 20 Year  (Pfd Plus),5
+EMUU,20-Year Level Term,5
+EMUV,20-Year Level Term  (Super Preferred),5
+EMVU,ULTRA Value Term - 30 Year,7
+EMVV,ULTRA Value Term - 30 Year  (Pfd Plus),7
+EMUU,30-Year Level Term,7
+EMUV,30-Year Level Term  (Super Preferred),7
+EMVU,ULTRA Value Term - 15 Year with ROP,J
+EMVV,ULTRA Value Term - 15 Year with ROP (P+),J
+EMVU,ULTRA Value Term - 20 Year with ROP,K
+EMVV,ULTRA Value Term - 20 Year with ROP (P+),K
+EMVU,ULTRA Value Term - 30 Year with ROP,M
+EMVV,ULTRA Value Term - 30 Year with ROP (P+),M
+          Fidelity Life Association               
+FLRM,Rapid Decision Term -  5 Year,2
+FLRM,Rapid Decision Term - 10 Year,3
+FLRM,Rapid Decision Term - 15 Year,4
+FLMM,Rapid Decision Mortgage Term - 15 Year,4
+FLRM,Rapid Decision Term - 20 Year,5
+FLMM,Rapid Decision Mortgage Term - 20 Year,5
+FLRM,Rapid Decision Term - 30 Year,7
+FLMM,Rapid Decision Mortgage Term - 30 Year,7
+FLMM,Rapid Decision Mortgage Term - 40 Year,0
+FLRR,Rapid Decision Mortgage Term - 40 (ROP),0
+FLRM,Rapid Decision Term - 15 Year  (w/ROP),J
+FLMM,Rapid Decision Mortgage Term - ROP,J
+FLRM,Rapid Decision Term - 20 Year  (w/ROP),K
+FLMM,Rapid Decision Mortgage Term - 20 ROP,K
+FLRM,Rapid Decision Term - 30 Year  (w/ROP),M
+FLMM,Rapid Decision Mortgage Term - 30 ROP,M
+          First Ameritas Life Insurance of NY     
+FIRA,Low-Load 10 Year Term,3
+FIRB,Low-Load 10 Year Term  (Super Preferred),3
+FIRA,Low-Load 20 Year Term,5
+FIRB,Low-Load 20 Year Term  (Super Preferred),5
+          First Central National Life of New York 
+FICE,Simple Term - 10 Year,3
+FICE,Simple Term - 15 Year,4
+FICE,Simple Term - 20 Year,5
+FICE,Simple Term - 30 Year,7
+          First MetLife Investors Insurance Co    
+FTLI,Guaranteed Level Term 10,3
+FTLP,GLT 10  (P+ Elite / R+ Std Plus),3
+FTLI,Guaranteed Level Term 15,4
+FTLP,GLT 15  (P+ Elite / R+ Std Plus),4
+FTLI,Guaranteed Level Term 20,5
+FTLP,GLT 20  (P+ Elite / R+ Std Plus),5
+FTLI,Guaranteed Level Term 30,7
+FTLP,GLT 30  (P+ Elite / R+ Std Plus),7
+          Foresters Life Insurance Company        
+FOFE,Foresters Lifefirst - 10 Year,3
+FOFP,Foresters Lifefirst - 10 Year  (Plus),3
+FONE,Foresters Lifefirst - 20 Year (non-med),5
+FOFE,Foresters Lifefirst - 20 Year,5
+FOFP,Foresters Lifefirst - 20 Year  (Plus),5
+FONE,Foresters Lifefirst - 30 Year (non-med),7
+FOFE,Foresters Lifefirst - 30 Year,7
+FOFP,Foresters Lifefirst - 30 Year  (Plus),7
+          Genworth Life and Annuity Insurance Co  
+FRCP,Colony 10,3
+FRCQ,Colony 10  (P+ Pfd Best / R+ Select),3
+FRCS,Colony 10  (Standard),3
+FMCP,Colony 10  (MD),3
+FMCQ,Colony 10  (P+ Pfd Best / R+ Select /MD),3
+FMCS,Colony 10  (Standard / MD),3
+FPCP,Colony 10  (PA & TX),3
+FPCQ,Colony 10  (P+ Best / R+ Select / PA&TX),3
+FPCS,Colony 10  (Standard / PA & TX),3
+FICP,Colony 10  (OR),3
+FICQ,Colony 10  (P+ Pfd Best / R+ Select /OR),3
+FICS,Colony 10  (Standard / OR),3
+FRCP,Colony 15,4
+FRCQ,Colony 15  (P+ Pfd Best / R+ Select),4
+FRCS,Colony 15  (Standard),4
+FMCP,Colony 15  (MD),4
+FMCQ,Colony 15  (P+ Pfd Best / R+ Select /MD),4
+FMCS,Colony 15  (Standard / MD),4
+FPCP,Colony 15  (PA & TX),4
+FPCQ,Colony 15  (P+ Best / R+ Select / PA&TX),4
+FPCS,Colony 15  (Standard / PA & TX),4
+FICP,Colony 15  (OR),4
+FICQ,Colony 15  (P+ Pfd Best / R+ Select /OR),4
+FICS,Colony 15  (Standard / OR),4
+FRCP,Colony 20,5
+FRCQ,Colony 20  (P+ Pfd Best / R+ Select),5
+FRCS,Colony 20  (Standard),5
+FMCP,Colony 20  (MD),5
+FMCQ,Colony 20  (P+ Pfd Best / R+ Select /MD),5
+FMCS,Colony 20  (Standard / MD),5
+FPCP,Colony 20  (PA & TX),5
+FPCQ,Colony 20  (P+ Best / R+ Select / PA&TX),5
+FPCS,Colony 20  (Standard / PA & TX),5
+FICP,Colony 20  (OR),5
+FICQ,Colony 20  (P+ Pfd Best / R+ Select /OR),5
+FICS,Colony 20  (Standard / OR),5
+FRCP,Colony 30,7
+FRCQ,Colony 30  (P+ Pfd Best / R+ Select),7
+FRCS,Colony 30  (Standard),7
+FMCP,Colony 30  (MD),7
+FMCQ,Colony 30  (P+ Pfd Best / R+ Select /MD),7
+FMCS,Colony 30  (Standard / MD),7
+FPCP,Colony 30  (PA & TX),7
+FPCQ,Colony 30  (P+ Best / R+ Select / PA&TX),7
+FPCS,Colony 30  (Standard / PA & TX),7
+FICP,Colony 30  (OR),7
+FICQ,Colony 30  (P+ Pfd Best / R+ Select /OR),7
+FICS,Colony 30  (Standard / OR),7
+FICP,Lifetime FlexPlus II,8
+          Genworth Life and Annuity Insurance Co  
+FICQ,Lifetime FlexPlus II (P+ Best/R+ Select),8
+FICP,Lifetime FlexPlus II - Pay to 65,Q
+FICQ,Lifetime FlexPlus II - Pay to 65 (P+/R+),Q
+FICP,Lifetime FlexPlus II - 20 Pay,R
+FICQ,Lifetime FlexPlus II - 20 Pay  (P+/R+),R
+FICP,Lifetime FlexPlus II - 10 Pay,S
+FICQ,Lifetime FlexPlus II - 10 Pay  (P+/R+),S
+FICP,Lifetime FlexPlus II - Single Pay,O
+FICQ,Lifetime FlexPlus II - Single Pay (P+/R+,O
+          Genworth Life Insurance Company         
+GRCP,Sure Term 10,3
+GRCQ,Sure Term 10  (P+ Pfd Best / R+ Select),3
+GRCS,Sure Term 10  (Standard),3
+GMCP,Sure Term 10  (MD),3
+GMCQ,Sure Term 10  (P+ Best / R+ Select /MD),3
+GMCS,Sure Term 10  (Standard / MD),3
+GPCP,Sure Term 10  (PA & TX),3
+GPCQ,Sure Term 10  (P+ Best/R+ Select/ PA&TX),3
+GPCS,Sure Term 10  (Standard / PA & TX),3
+GECP,Sure Term 10  (OR),3
+GECQ,Sure Term 10  (P+ Best / R+ Select /OR),3
+GECS,Sure Term 10  (Standard / OR),3
+GRCP,Sure Term 15,4
+GRCQ,Sure Term 15  (P+ Pfd Best / R+ Select),4
+GRCS,Sure Term 15  (Standard),4
+GMCP,Sure Term 15  (MD),4
+GMCQ,Sure Term 15  (P+ Best / R+ Select /MD),4
+GMCS,Sure Term 15  (Standard / MD),4
+GPCP,Sure Term 15  (PA & TX),4
+GPCQ,Sure Term 5  (P+ Best/R+ Select/ PA&TX),4
+GPCS,Sure Term 15  (Standard / PA & TX),4
+GECP,Sure Term 15  (OR),4
+GECQ,Sure Term 15  (P+ Pfd / R+ Select /OR),4
+GECS,Sure Term 15  (Standard / OR),4
+GRCP,Sure Term 20,5
+GRCQ,Sure Term 20  (P+ Pfd Best / R+ Select),5
+GRCS,Sure Term 20  (Standard),5
+GMCP,Sure Term 20  (MD),5
+GMCQ,Sure Term 20  (P+ Best / R+ Select /MD),5
+GMCS,Sure Term 20  (Standard / MD),5
+GPCP,Sure Term 20  (PA & TX),5
+GPCQ,Sure Term 20  (P+ Best/R+ Select/ PA&TX),5
+GPCS,Sure Term 20  (Standard / PA & TX),5
+GECP,Sure Term 20  (OR),5
+GECQ,Sure Term 20  (P+ Best / R+ Select /OR),5
+GECS,Sure Term 20  (Standard / OR),5
+GRCP,Sure Term 30,7
+GRCQ,Sure Term 30  (P+ Pfd Best / R+ Select),7
+GRCS,Sure Term 30  (Standard),7
+GMCP,Sure Term 30  (MD),7
+GMCQ,Sure Term 30  (P+ Best / R+ Select /MD),7
+GMCS,Sure Term 30  (Standard / MD),7
+GPCP,Sure Term 30  (PA & TX),7
+GPCQ,Sure Term 30  (P+ Best/R+ Select/ PA&TX),7
+GPCS,Sure Term 30  (Standard / PA & TX),7
+GECP,Sure Term 30  (OR),7
+GECQ,Sure Term 30  (P+ Best / R+ Select /OR),7
+GECS,Sure Term 30  (Standard / OR),7
+GECP,Lifetime FlexPlus II,8
+          Genworth Life Insurance Company         
+GECQ,Lifetime FlexPlus II (P+ Best/R+ Select),8
+GECP,Lifetime FlexPlus II - Pay to 65,Q
+GECQ,Lifetime FlexPlus II - Pay to 65 (P+/R+),Q
+GECP,Lifetime FlexPlus II - 20 Pay,R
+GECQ,Lifetime FlexPlus II - 20 Pay  (P+/R+),R
+GECP,Lifetime FlexPlus II - 10 Pay,S
+GECQ,Lifetime FlexPlus II - 10 Pay  (P+/R+),S
+GECP,Lifetime FlexPlus II - Single Pay,O
+GECQ,Lifetime FlexPlus II - Single Pay (P+/R+,O
+          Genworth Life Insurance Company of NY   
+GYAT,Term 10,3
+GYAP,Term 10  (P+ Pfd Best / R+ Select),3
+GYAS,Term 10  (Standard),3
+GYAT,Term 15,4
+GYAP,Term 15  (P+ Pfd Best / R+ Select),4
+GYAS,Term 15  (Standard),4
+GYAT,Term 20,5
+GYAP,Term 20  (P+ Pfd Best / R+ Select),5
+GYAS,Term 20  (Standard),5
+GYAT,Term 30,7
+GYAP,Term 30  (P+ Pfd Best / R+ Select),7
+GYAS,Term 30  (Standard),7
+GYXT,Lifetime FlexPlus II,8
+GYXP,Lifetime FlexPlus II (P+ Best/R+ Select),8
+GYXT,Lifetime FlexPlus II - Pay to 65,Q
+GYXP,Lifetime FlexPlus II - Pay to 65 (P+/R+),Q
+GYXT,Lifetime FlexPlus II - 20 Pay,R
+GYXP,Lifetime FlexPlus II - 20 Pay  (P+/R+),R
+GYXT,Lifetime FlexPlus II - 10 Pay,S
+GYXP,Lifetime FlexPlus II - 10 Pay  (P+/R+),S
+GYXT,Lifetime FlexPlus II - Single Pay,O
+GYXP,Lifetime FlexPlus II - Single Pay (P+/R+,O
+          Gleaner Life Insurance Society          
+GLEA,Gleaner Term - 10-Year,3
+GLEE,Gleaner Term - 10-Year  (Elite Pfd),3
+GLES,Gleaner Term - 10-Year  (Super Pfd),3
+GLEA,Gleaner Term - 15-Year,4
+GLEE,Gleaner Term - 15-Year  (Elite Pfd),4
+GLES,Gleaner Term - 15-Year  (Super Pfd),4
+GLEA,Gleaner Term - 20-Year,5
+GLEE,Gleaner Term - 20-Year  (Elite Pfd),5
+GLES,Gleaner Term - 20-Year  (Super Pfd),5
+GLEA,Gleaner Term - 30-Year,7
+GLEE,Gleaner Term - 30-Year  (Elite Pfd),7
+GLES,Gleaner Term - 30-Year  (Super Pfd),7
+          Government Personnel Mutual Life        
+GOVE,Mark X - 10 Year Level Term,3
+GOVP,Mark X - 10 Year  (Preferred Plus),3
+GOVE,Mark X - 15 Year Level Term,4
+GOVP,Mark X - 15 Year  (Preferred Plus),4
+GOVE,Mark X - 20 Year Level Term,5
+GOVP,Mark X - 20 Year  (Preferred Plus),5
+          Grange Life Insurance Company           
+GRAN,Select Choice 10 - 10 Year Level Term,3
+GRAP,Select Choice 10 - (Executive Preferred),3
+GRAN,Select Choice 15 - 15 Year Level Term,4
+GRAP,Select Choice 15 - (Executive Preferred),4
+GRAN,Select Choice 20 - 20 Year Level Term,5
+GRAP,Select Choice 20 - (Executive Preferred),5
+GRAN,Select Choice 30 - 30 Year Level Term,7
+GRAP,Select Choice 30 - (Executive Preferred),7
+          Guardian Life Insurance Co of America   
+GGLA,Yearly Renewable Term (YRT) Gold,1
+GGLE,YRT Gold  (Elite),1
+GGLP,YRT Gold  (Preferred Plus),1
+GGLA,Level Term Gold 10,3
+GGLE,Level Term Gold 10  (Elite),3
+GGLP,Level Term Gold 10  (Preferred Plus),3
+GGCA,Level Term Gold 10  (extended conv.),3
+GGCE,Level Term Gold 10  (Elite/ext. conv.),3
+GGCP,Level Term Gold 10  (Pfd Plus/ext. conv),3
+GYLA,Level Term Gold 10  (NY),3
+GYLE,Level Term Gold 10  (NY/Elite),3
+GYLP,Level Term Gold 10  (NY/Preferred Plus),3
+GDCA,Level Term Gold 10  (NY/extended conv.),3
+GDCE,Level Term Gold 10  (NY/Elite/ext. conv),3
+GDCP,Level Term Gold 10  (NY/P+/ext. conv),3
+GULA,Level Term 10  (WA),3
+GULP,Level Term 10  (Super Preferred/WA),3
+GUCA,Level Term 10  (extended conversion/WA),3
+GUCP,Level Term 10  (Super/ext. conversion/WA,3
+GGLA,Level Term Gold 15,4
+GGLE,Level Term Gold 15  (Elite),4
+GGLP,Level Term Gold 15  (Preferred Plus),4
+GGCA,Level Term Gold 15  (extended conv.),4
+GGCE,Level Term Gold 15  (Elite/ext. conv.),4
+GGCP,Level Term Gold 15  (Pfd Plus/ext. conv),4
+GYLA,Level Term Gold 15  (NY),4
+GYLE,Level Term Gold 15  (NY/Elite),4
+GYLP,Level Term Gold 15  (NY/Preferred Plus),4
+GDCA,Level Term Gold 15  (NY/extended conv.),4
+GDCE,Level Term Gold 15  (NY/Elite/ext. conv),4
+GDCP,Level Term Gold 15  (NY/P+/ext. conv),4
+GULA,Level Term 15  (WA),4
+GULP,Level Term 15  (Super Preferred / WA),4
+GUCA,Level Term 15  (extended conversion/WA),4
+GUCP,Level Term 15  (Super/ext. conversion/WA,4
+GGLA,Level Term Gold 20,5
+GGLE,Level Term Gold 20  (Elite),5
+GGLP,Level Term Gold 20  (Preferred Plus),5
+GGCA,Level Term Gold 20  (extended conv.),5
+GGCE,Level Term Gold 20  (Elite/ext. conv.),5
+GGCP,Level Term Gold 20  (Pfd Plus/ext. conv),5
+GYLA,Level Term Gold 20  (NY),5
+GYLE,Level Term Gold 20  (NY/Elite),5
+GYLP,Level Term Gold 20  (NY/Preferred Plus),5
+GDCA,Level Term Gold 20  (NY/extended conv.),5
+GDCE,Level Term Gold 20  (NY/lite/ext. conv),5
+GDCP,Level Term Gold 20  (NY/P+/ext. conv),5
+GULA,Level Term 20  (WA),5
+GULP,Level Term 20  (Super Preferred / WA),5
+          Guardian Life Insurance Co of America   
+GUCA,Level Term 20  (extended conversion/WA),5
+GUCP,Level Term 20  (Super/ext. conversion/WA,5
+GGLA,Level Term Gold 30,7
+GGLE,Level Term Gold 30  (Elite),7
+GGLP,Level Term Gold 30  (Preferred Plus),7
+GGCA,Level Term Gold 30  (extended conv.),7
+GGCE,Level Term Gold 30  (Elite/ext. conv.),7
+GGCP,Level Term Gold 30  (Pfd Plus/ext. conv),7
+GYLA,Level Term Gold 30  (NY),7
+GYLE,Level Term Gold 30  (NY/Elite),7
+GYLP,Level Term Gold 30  (NY/Preferred Plus),7
+GDCA,Level Term Gold 30  (NY/extended conv.),7
+GDCE,Level Term Gold 30  (NY/Elite/ext. conv),7
+GDCP,Level Term Gold 30  (NY/P+/ext. conv),7
+          Hartford Life and Annuity Insurance Co  
+HART,Hartford Bicentennial Term 10,3
+HARB,Hartford Bicentennial Term 10  (Pf Best),3
+HARP,Hartford Bicentennial Term 10  (Pfd+),3
+HART,Hartford Bicentennial Term 15,4
+HARB,Hartford Bicentennial Term 15  (Pf Best),4
+HARP,Hartford Bicentennial Term 15  (Pfd+),4
+HART,Hartford Bicentennial Term 20,5
+HARB,Hartford Bicentennial Term 20  (Pf Best),5
+HARP,Hartford Bicentennial Term 20  (Pfd+),5
+HART,Hartford Bicentennial Term 30,7
+HARB,Hartford Bicentennial Term 30  (Pf Best),7
+HARP,Hartford Bicentennial Term 30  (Pfd+),7
+          Hartford Life Insurance Company         
+HAYT,Hartford Bicentennial Term 10,3
+HAYB,Hartford Bicentennial Term 10  (Pf Best),3
+HAYP,Hartford Bicentennial Term 10  (Pfd+),3
+HAYT,Hartford Bicentennial Term 15,4
+HAYB,Hartford Bicentennial Term 15  (Pf Best),4
+HAYP,Hartford Bicentennial Term 15  (Pfd+),4
+HAYT,Hartford Bicentennial Term 20,5
+HAYB,Hartford Bicentennial Term 20  (Pf Best),5
+HAYP,Hartford Bicentennial Term 20  (Pfd+),5
+HAYT,Hartford Bicentennial Term 30,7
+HAYB,Hartford Bicentennial Term 30  (Pf Best),7
+HAYP,Hartford Bicentennial Term 30  (Pfd+),7
+          Household Life Insurance Company        
+HOUS,Simple Term - 10 Year,3
+HOUS,Simple Term - 15 Year,4
+HOUS,Simple Term - 20 Year,5
+HOUS,Simple Term - 30 Year,7
+          Humana Insurance Company Inc.           
+HUMA,HumanaOne Term 10,3
+HUMP,HumanaOne Term 10  (Super Preferred),3
+HUMA,HumanaOne Term 15,4
+HUMP,HumanaOne Term 15  (Super Preferred),4
+HUMA,HumanaOne Term 20,5
+HUMP,HumanaOne Term 20  (Super Preferred),5
+          Humana Health Insurance Co of FL Inc.   
+HUFA,HumanaOne Term 10,3
+HUFP,HumanaOne Term 10  (Super Preferred),3
+HUFA,HumanaOne Term 15,4
+HUFP,HumanaOne Term 15  (Super Preferred),4
+HUFA,HumanaOne Term 20,5
+HUFP,HumanaOne Term 20  (Super Preferred),5
+          Humana Insurance Company of Kentucky    
+HUKA,HumanaOne Term 10,3
+HUKP,HumanaOne Term 10  (Super Preferred),3
+HUKA,HumanaOne Term 15,4
+HUKP,HumanaOne Term 15  (Super Preferred),4
+HUKA,HumanaOne Term 20,5
+HUKP,HumanaOne Term 20  (Super Preferred),5
+          Illinois Mutual Life Insurance Company  
+ILLI,10-Year Level Term,3
+ILLP,10-Year Level Term  (Super Preferred),3
+ILLI,15-Year Level Term,4
+ILLP,15-Year Level Term  (Super Preferred),4
+ILLI,20-Year Level Term,5
+ILLP,20-Year Level Term  (Super Preferred),5
+ILLI,30-Year Level Term,7
+ILLP,30-Year Level Term  (Super Preferred),7
+ILLI,15-Year Level Term  (with SBR),J
+ILLP,15-Year Level Term  (Super Preferred),J
+ILLI,20-Year Level Term  (with SBR),K
+ILLP,20-Year Level Term  (Super Preferred),K
+ILLI,30-Year Level Term  (SBR),M
+ILLP,30-Year Level Term  (Super Preferred),M
+ILLI,Life Foundations Whole Life - Continuous,8
+          Industrial - Alliance Pacific Insurance 
+INDU,Critical Choice Term - 15 Year,4
+INXD,Critical Choice Term - 15/5 Year,4
+INDU,Critical Choice Term - 20 Year,5
+INXD,Critical Choice Term - 20/5 Year,5
+INDU,Critical Choice Term - 30 Year,7
+INXD,Critical Choice Term - 30/5 Year,7
+INDU,Critical Choice Term - 20 Year (w/ROP),K
+INXD,Critical Choice Term - 20/5 Year (w/ROP),K
+INDU,Critical Choice Term - 30 Year (w/ROP),M
+INXD,Critical Choice Term - 30/5 Year (w/ROP),M
+          Jackson National Life Insurance Company 
+JGCK,Protector 10-Year Term,3
+JGCP,Protector 10-Year Term  (P+),3
+JGCK,Protector 15-Year Term,4
+JGCP,Protector 15-Year Term  (P+),4
+JGCK,Protector 20-Year Term,5
+JGCP,Protector 20-Year Term  (P+),5
+          John Hancock Life Insurance Company USA 
+JHGU,10 Year Level Premium Term,3
+JHGP,10 Year Level Premium Term  (Super/Std+),3
+JHGU,15 Year Level Premium Term,4
+JHGP,15 Year Level Premium Term  (Super/Std+),4
+JHCU,15 Year Level Premium Term  (with CER),4
+JHCP,15 Year Level   (Super/Std+ with CER),4
+JHGU,20 Year Level Premium Term,5
+JHGP,20 Year Level Premium Term  (Super Std+),5
+JHCU,20 Year Level Premium Term  (with CER),5
+JHCP,20 Year Level   (Super/Std+ with CER),5
+JHGU,Protection UL-G09,8
+JHGP,Protection UL-G09  (Super/Std+),8
+          John Hancock Life Insurance Company NY  
+JYYN,10 Year Level Premium Term,3
+JYYP,10 Year Level Premium Term  (Super/Std+),3
+JYZN,10 Year Level Premium Term   (ages 71+),3
+JYZP,10 Year Level Term (Super Pfd/ages 71+),3
+JYYN,15 Year Level Premium Term,4
+JYYP,15 Year Level Premium Term  (Super/Std+),4
+JYCN,15 Year Level Premium Term  (with CER),4
+JYCP,15 Year Level   (Super/Std+ with CER),4
+JYZN,15 Year Level Premium Term   (ages 66+),4
+JYZP,15 Year Level Term (Super Pfd/ages 66+),4
+JYYN,20 Year Level Premium Term,5
+JYYP,20 Year Level Premium Term  (Super Std+),5
+JYCN,20 Year Level Premium Term  (with CER),5
+JYCP,20 Year Level   (Super/Std+ with CER),5
+JYZN,20 Year Level Premium Term   (ages 61+),5
+JYZP,20 Year Level Term (Super Pfd/ages 61+),5
+JYYN,Protection UL-G09,8
+JYYP,Protection UL-G09  (Super/Std+),8
+          Liberty Life Assurance Company of Boston
+LIBB,Passport 20 Plus with ROP feature,K
+LIBP,Passport 20 Plus with ROP feature  Elite,K
+LIBB,Passport 30 Plus with ROP feature,M
+LIBP,Passport 30 Plus with ROP feature  Elite,M
+          Liberty Life Insurance Company          
+LIBE,Annual Renewable Term to Age 75,1
+LILE,RBC LevelTERM - 10 Year Term,3
+LILP,RBC LevelTERM - 10 Year Term  (Plus),3
+LISB,RBC ExpressTERM II - 10 Year,3
+LIBS,RBC ExpressTERM - 10 Year,3
+LILE,RBC LevelTERM - 15 Year Term,4
+LILP,RBC LevelTERM - 15 Year Term  (Plus),4
+LISB,RBC ExpressTERM II - 15 Year,4
+LIBS,RBC ExpressTERM - 15 Year,4
+LILE,RBC LevelTERM - 20 Year Term,5
+LILP,RBC LevelTERM - 20 Year Term  (Plus),5
+LISB,RBC ExpressTERM II - 20 Year,5
+LIBS,RBC ExpressTERM - 20 Year,5
+LILE,RBC LevelTERM - 30 Year Term,7
+LILP,RBC LevelTERM - 30 Year Term  (Plus),7
+LISB,RBC ExpressTERM II - 30 Year,7
+          Lincoln Benefit Life Company            
+LBTE,TrueTerm - 10 Year,3
+LBTP,TrueTerm - 10 Year (P+ Elite# R+ Select),3
+LGWL,TrueTerm - 10 Year  (WA),3
+LGWM,TrueTerm - 10 Year (P+ Elite# R+ Sel/WA),3
+LBTE,TrueTerm - 15 Year,4
+LBTP,TrueTerm - 15 Year (P+ Elite# R+ Select),4
+LGWL,TrueTerm - 15 Year  (WA),4
+LGWM,TrueTerm - 15 Year (P+ Elite# R+ Sel/WA),4
+LBTE,TrueTerm - 20 Year,5
+LBTP,TrueTerm - 20 Year (P+ Elite# R+ Select),5
+LGWL,TrueTerm - 20 Year  (WA),5
+LGWM,TrueTerm - 20 Year (P+ Elite# R+ Sel/WA),5
+LBTE,TrueTerm - 30 Year,7
+LBTP,TrueTerm - 30 Year (P+ Elite# R+ Select),7
+LGWL,TrueTerm - 30 Year  (WA),7
+LGWM,TrueTerm - 30 Year (P+ Elite# R+ Sel/WA),7
+LBTE,TrueTerm - 15 Year with ROP,J
+LBTP,TrueTerm - 15 Year (P+ Elite# R+ Select),J
+LBTE,TrueTerm - 20 Year with ROP,K
+LBTP,TrueTerm - 20 Year (P+ Elite# R+ Select),K
+LBTE,TrueTerm - 30 Year with ROP,M
+LBTP,TrueTerm - 30 Year (P+ Elite# R+ Select),M
+LBTE,Legacy Secure 2007 no lapse UL  (Band 1),8
+LBTP,Legacy Secure 2007  (Pfd Elite / Band 1),8
+LBUE,Legacy Secure 2007 no lapse UL  (Band 2),8
+LBUP,Legacy Secure 2007  (Pfd Elite / Band 2),8
+LBVE,Legacy Secure 2007 no lapse UL  (Band 3),8
+LBVP,Legacy Secure 2007  (Pfd Elite / Band 3),8
+          Lincoln Life & Annuity Company of NY    
+LYNN,LifeElement (SM) Level Term - 10 Year,3
+LYNP,LifeElement (SM) Level Term - 10 (P+),3
+LYNN,LifeElement (SM) Level Term - 15 Year,4
+LYNP,LifeElement (SM) Level Term - 15 (P+),4
+LYNN,LifeElement (SM) Level Term - 20 Year,5
+LYNP,LifeElement (SM) Level Term - 20 (P+),5
+LYNN,LifeElement (SM) Level Term - 30 Year,7
+LYNP,LifeElement (SM) Level Term - 30 (P+),7
+LYNN,LGUL,8
+LYNP,LGUL  (P+),8
+          Lincoln National Life Insurance Company 
+LINN,LifeElement (SM) Level Term - 10 Year,3
+LINP,LifeElement (SM) Level Term - 10 (P+),3
+LONN,LifeElement (SM) Level Term - 10 (2008),3
+LONP,LifeElement (SM) Level Term - 10 (P+),3
+LINN,LifeElement (SM) Level Term - 15 Year,4
+LINP,LifeElement (SM) Level Term - 15 (P+),4
+LONN,LifeElement (SM) Level Term - 15 (2008),4
+LONP,LifeElement (SM) Level Term - 15 (P+),4
+LINN,LifeElement (SM) Level Term - 20 Year,5
+LINP,LifeElement (SM) Level Term - 20 (P+),5
+LONN,LifeElement (SM) Level Term - 20 (2008),5
+LONP,LifeElement (SM) Level Term - 20 (P+),5
+LINN,LifeElement (SM) Level Term - 30 Year,7
+LINP,LifeElement (SM) Level Term - 30 (P+),7
+LONN,LifeElement (SM) Level Term - 30 (2008),7
+LONP,LifeElement (SM) Level Term - 30 (P+),7
+LINN,LGUL,8
+LINP,LGUL  (P+),8
+          Massachusetts Mutual Life Insurance     
+MTGN,Term 5G,2
+MTGP,Term 5G  (Ultra Preferred),2
+MYGN,Term 5G  (NY),2
+MYGP,Term 5G  (Ultra Preferred / NY),2
+MTGN,Term 10G,3
+MTGP,Term 10G  (Ultra Preferred),3
+MYGN,Term 10G  (NY),3
+MYGP,Term 10G  (Ultra Preferred / NY),3
+MTGN,Term 20G,5
+MTGP,Term 20G  (Ultra Preferred),5
+MYGN,Term 20G  (NY),5
+MYGP,Term 20G  (Ultra Preferred / NY),5
+MTGN,Term 30G,7
+MTGP,Term 30G  (Ultra Preferred),7
+MYGN,Term 30G  (NY),7
+MYGP,Term 30G  (Ultra Preferred / NY),7
+          MetLife Investors USA Insurance Company 
+MTLI,Guaranteed Level Term 10,3
+MTLP,GLT 10  (P+ Elite / R+ Std Plus),3
+MTLI,Guaranteed Level Term 15,4
+MTLP,GLT 15  (P+ Elite / R+ Std Plus),4
+MTLI,Guaranteed Level Term 20,5
+MTLP,GLT 20  (P+ Elite / R+ Std Plus),5
+MTLI,Guaranteed Level Term 30,7
+MTLP,GLT 30  (P+ Elite / R+ Std Plus),7
+MUTE,Guaranteed Advantage UL (2001 CSO),8
+MUTP,Guaranteed Advantage UL (2001 CSO/Elite),8
+          Metropolitan Life Insurance Company     
+MYUE,Guaranteed Advantage UL  (2001 CSO),8
+MYUP,Guaranteed Advantage UL (2001 CSO/Elite),8
+          Midland National Life Insurance Company 
+MECT,Executive Century 2 - 10 Year Term,3
+MECP,Executive Century 2 - 10 Year (Plus),3
+MITT,Premier Century 2 - 10 Year Term,3
+MITP,Premier Century 2 - 10 Year Term (Plus),3
+MECT,Executive Century 2 - 15 Year Term,4
+MECP,Executive Century 2 - 15 Year (Plus),4
+MITT,Premier Century 2 - 15 Year Term,4
+MITP,Premier Century 2 - 15 Year Term (Plus),4
+MECT,Executive Century 2 - 20 Year Term,5
+MECP,Executive Century 2 - 20 Year (Plus),5
+MITT,Premier Century 2 - 20 Year Term,5
+MITP,Premier Century 2 - 20 Year Term (Plus),5
+MECT,Executive Century 2 - 30 Year Term,7
+MECP,Executive Century 2 - 30 Year (Plus),7
+MITT,Premier Century 2 - 30 Year Term,7
+MITP,Premier Century 2 - 30 Year Term (Plus),7
+          Minnesota Life Insurance Company        
+MINN,Advantage Elite Term Life - 5 Year,2
+MINP,Advantage Elite Term - 5 Year (Plus),2
+MINN,Advantage Elite Term Life - 10 Year,3
+MINP,Advantage Elite Term - 10 Year (Plus),3
+MINN,Advantage Elite Term Life - 15 Year,4
+MINP,Advantage Elite Term - 15 Year (Plus),4
+MINN,Advantage Elite Term Life - 20 Year,5
+MINP,Advantage Elite Term - 20 Year (Plus),5
+MINN,Advantage Elite Term Life - 30 Year,7
+MINP,Advantage Elite Term - 30 Year (Plus),7
+          Motorists Life Insurance Company        
+MOTO,Value Term Plus - 10-Year Plan,3
+MOTB,Value Term Plus - 10-Year  (Pfd Best),3
+MOTP,Value Term Plus - 10-Year  (Pfd Plus),3
+MOTO,Value Term Plus - 15-Year Plan,4
+MOTB,Value Term Plus - 15-Year  (Pfd Best),4
+MOTP,Value Term Plus - 15-Year  (Pfd Plus),4
+MOTO,Value Term Plus - 20-Year Plan,5
+MOTB,Value Term Plus - 20-Year  (Pfd Best),5
+MOTP,Value Term Plus - 20-Year  (Pfd Plus),5
+MOTO,Value Term Plus - 25-Year Plan,6
+MOTB,Value Term Plus - 25-Year  (Pfd Best),6
+MOTP,Value Term Plus - 25-Year  (Pfd Plus),6
+MOTO,Value Term Plus - 30-Year Plan,7
+MOTB,Value Term Plus - 30-Year  (Pfd Best),7
+MOTP,Value Term Plus - 30-Year  (Pfd Plus),7
+MOTO,Value Term Plus - 40-Year Plan,0
+MOTB,Value Term Plus - 40-Year  (Pfd Best),0
+MOTP,Value Term Plus - 40-Year  (Pfd Plus),0
+          MTL Insurance Company                   
+MTSU,SelecTerm-10,3
+MTSP,SelecTerm-10  (Preferred Plus),3
+MTRU,SelecTerm-10  (NV# NJ# OR),3
+MTRP,SelecTerm-10  (Preferred Plus),3
+MTSU,SelecTerm-15,4
+MTSP,SelecTerm-15  (Preferred Plus),4
+MTRU,SelecTerm-15  (NV# NJ# OR),4
+MTRP,SelecTerm-15  (Preferred Plus),4
+MTSU,SelecTerm-20,5
+MTSP,SelecTerm-20  (Preferred Plus),5
+MTRU,SelecTerm-20  (NV# NJ# OR),5
+MTRP,SelecTerm-20  (Preferred Plus),5
+MTSU,SelecTerm-30,7
+MTSP,SelecTerm-30  (Preferred Plus),7
+MTRU,SelecTerm-30  (NV# NJ# OR),7
+MTRP,SelecTerm-30  (Preferred Plus),7
+          National Life Insurance Co of Vermont   
+NATV,ART - Annual Renewable Term,1
+NATW,ART - Annual Renewable Term (Elite Pfd),1
+NATV,GL-10 - 10 Year Level Term,3
+NATW,GL-10 - 10 Year  (Elite Preferred),3
+NYTV,GL-10 - 10 Year Level Term  (NY),3
+NYTW,GL-10 - 10 Year  (Elite Preferred/NY),3
+NATV,GL-15 - 15 Year Level Term,4
+NATW,GL-15 - 15 Year  (Elite Preferred),4
+NXTV,L-15 - 15 Year Level Term,4
+NXTW,L-15 - 15 Year  (Elite Preferred),4
+NYTV,GL-15 - 15 Year Level Term  (NY),4
+NYTW,GL-15 - 15 Year  (Elite Preferred/NY),4
+NZTV,L-15 - 15 Year Level Term  (NY),4
+NZTW,L-15 - 15 Year  (Elite Preferred/NY),4
+NGTV,GL-20 - 20 Year Level Term,5
+NGTW,GL-20 - 20 Year  (Elite Preferred),5
+NXTV,L-20 - 20 Year Level Term,5
+NXTW,L-20 - 20 Year  (Elite Preferred),5
+NYTV,GL-20 - 20 Year Level Term  (NY),5
+NYTW,GL-20 - 20 Year  (Elite Preferred/NY),5
+NZTV,L-20 - 20 Year Level Term  (NY),5
+NZTW,L-20 - 20 Year  (Elite Preferred/NY),5
+          Nationwide Life & Annuity Co of America 
+NVWL,YourLife(SM) - 10 Year Term,3
+NVWP,YourLife(SM) - 10 Year Term  (Pfd Plus),3
+NYWL,YourLife(SM) - 10 Year Term  (NY),3
+NYWP,YourLife(SM) - 10 Year Term  (P+ / NY),3
+NVWL,YourLife(SM) - 20 Year Term,5
+NVWP,YourLife(SM) - 20 Year Term  (Pfd Plus),5
+NYWL,YourLife(SM) - 20 Year Term  (NY),5
+NYWP,YourLife(SM) - 20 Year Term  (P+ / NY),5
+NVWL,YourLife(SM) - 30 Year Term,7
+NVWP,YourLife(SM) - 30 Year Term  (Pfd Plus),7
+NYWL,YourLife(SM) - 30 Year Term  (NY),7
+NYWP,YourLife(SM) - 30 Year Term  (P+ / NY),7
+          New York Life Insurance Company         
+NYMA,Increasing Premium Term Insurance,1
+NYMP,Increasing Premium Term  (Select Pfd),1
+NYMS,Increasing Premium Term  (Smoker),1
+NYLA,Indeterminate Premium Term (Non-Smoker),1
+NYLP,Indeterminate Premium Term (Select Pfd),1
+NYLS,Indeterminate Premium Term (Smoker),1
+NYLA,Five Year Term,2
+NYLP,Five Year Term  (Select Preferred),2
+NYYA,Five Year Term  (NY),2
+NYYP,Five Year Term  (Select Preferred / NY),2
+NYMA,20 Year Level Term (20LT),5
+NYMP,20 Year Level Term (20LT)  (Select Pfd),5
+NYLA,20/10 Year Term,5
+NYLP,20/10 Year Term  (Select Preferred),5
+NYYA,Term Life to 70  (20/10 Year Term - NY),5
+NYYP,20/10 Year Term  (Select Preferred/NY),5
+NYYA,Term Life to age 70 (NY - ages 51+),F
+NYYP,Term Policy to 70 (51+ Select Pfd - NY),F
+          NYLIFE Insurance Company of Arizona     
+NYLA,Term to Age 90 - 10 Year Level Term,3
+NYLP,Term to Age 90 - 10 Year  (Select Pfd),3
+          North American Co for Life and Health   
+NDGA,ADDvantage 10,3
+NDGP,ADDvantage 10  (P+ Super Pfd / R+ Std+),3
+NEGA,ADDvantage 10  (FL),3
+NEGP,ADDvantage 10  (FL/P+ Super Pfd/R+ Std+),3
+NDGA,ADDvantage 15,4
+NDGP,ADDvantage 15  (P+ Super Pfd / R+ Std+),4
+NEGA,ADDvantage 15  (FL),4
+NEGP,ADDvantage 15  (FL/P+ Super Pfd/R+ Std+),4
+NDGA,ADDvantage 20,5
+NDGP,ADDvantage 20  (P+ Super Pfd / R+ Std+),5
+NEGA,ADDvantage 20  (FL),5
+NEGP,ADDvantage 20  (FL/P+ Super Pfd/R+ Std+),5
+NDGA,ADDvantage 30,7
+NDGP,ADDvantage 30  (P+ Super Pfd / R+ Std+),7
+NEGA,ADDvantage 30  (FL),7
+NEGP,ADDvantage 30  (FL/P+ Super Pfd/R+ Std+),7
+NUGA,TermGUL - pay to 100 no lapse UL ($25K),P
+NUGP,TermGUL - pay to 100  ($25K/Super),P
+NPGA,TermGUL - pay to 100 no lapse UL ($250K),P
+NPGP,TermGUL - pay to 100  ($250K/Super),P
+          Northwestern Mutual Life Insurance      
+NOWM,TT Term 80 - 1 Year R & C Term,1
+NOWP,TT Term 80 - 1 Year R & C  (Premier NT),1
+NOTN,TT Term 10 - 1 Year Term for 10 Years,1
+NOTP,TT Term 10 - 1 Year for 10 Yrs (Premier),1
+NOWM,TT Level Term 10,3
+NOWP,TT Level Term 10  (Premier NT),3
+NOWM,TT Level Term 20,5
+NOWP,TT Level Term 20  (Premier NT),5
+NOTN,TT Level Term 20  (issue ages 51+),5
+NOTP,TT Level Term 20  (Premier NT/ages 51+),5
+NOYN,TT Level Term 20  (NY),5
+NOYP,TT Level Term 20  (Premier NT / NY),5
+          Occidental Life Ins Co of North Carolina
+OCNC,ULTIMATE TERM-10 - 10 Year Term,3
+          Ohio National Life Assurance Corporation
+ONWJ,Term 10 Plus  (Series VI),3
+ONWN,Term 10 Plus  (P+ Super Pfd / R+ Select),3
+ONYJ,Term 10  (Series VI),3
+ONYN,Term 10  (P+ Super Pfd/ R+ Select),3
+OMWJ,Term 15 Plus  (Series VI),4
+OMWN,Term 15 Plus  (P+ Super Pfd / R+ Select),4
+OMYJ,Term 15  (Series VI),4
+OMYN,Term 15  (P+ Super Pfd / R+ Select),4
+OMWJ,Term 20 Plus  (Series VI),5
+OMWN,Term 20 Plus  (P+ Super Pfd / R+ Select),5
+OMYJ,Term 20  (Series VI),5
+OMYN,Term 20  (P+ Super Pfd / R+ Select),5
+ONWJ,Virtus Lifetime G,8
+ONWN,Virtus Lifetime G  (P+ Super/R+ Select),8
+          Pacific Guardian Life Insurance Co# Ltd.
+PAIC,One Year Term Plus,1
+PAGI,Ten Year Term,3
+          Pacific Life Insurance Company          
+PACL,Pacific-ART - Annual Renewable Term,1
+PACS,Pacific-ART - ART (Super Preferred),1
+PACN,Pacific-ART - ART (Preferred Plus),1
+PACL,Pacific-10 - 10 Year Renewable,3
+PACS,Pacific-10 - 10 Year (Super Preferred),3
+PACN,Pacific-10 - 10 Year (Preferred Plus),3
+PACL,Pacific-20 - 20 Year Renewable,5
+PACS,Pacific-20 - 20 Year (Super Preferred),5
+PACN,Pacific-20 - 20 Year (Preferred Plus),5
+          Pan-American Life Insurance Company     
+PANA,5-Year Level Term,2
+PANS,Sentinel Series 10 - 10-Year Term,3
+PANP,Sentinel Series 10  (Preferred Plus),3
+PATN,10-Year Level Term,3
+PANS,Sentinel Series 20 - 20-Year Term,5
+PANP,Sentinel Series 20  (Preferred Plus),5
+PAXS,Sentinel Series 20/10 - 20-Year Term,5
+PAXP,Sentinel Series 20/10  (Preferred Plus),5
+          The Paul Revere Life Insurance Company  
+PAUL,Selector 1 - 1 Year Term,1
+PAUL,Selector 10 - 10 Year Term,3
+          The Penn Mutual Life Insurance Company  
+PENC,Guaranteed 10 Year Term,3
+PENP,Guaranteed 10 Year Term (Preferred Plus),3
+PENB,Guaranteed 10 Year Term (Preferred Best),3
+PENC,Guaranteed 15 Year Term,4
+PENP,Guaranteed 15 Year Term (Preferred Plus),4
+PENB,Guaranteed 15 Year Term (Preferred Best),4
+PENC,Guaranteed 20 Year Term,5
+PENP,Guaranteed 20 Year Term (Preferred Plus),5
+PENB,Guaranteed 20 Year Term (Preferred Best),5
+PGNC,Guaranteed Protection UL - gtd to 121,8
+PGNP,Guaranteed Protection UL - gtd to 121 P+,8
+          Phoenix Life Insurance Company          
+PHTE,PPTL-10,3
+PHTP,PPTL-10  (Preferred Plus),3
+PHWE,PPTL-10  (WA),3
+PHWP,PPTL-10  (Preferred Plus / WA),3
+PHXE,PPTL-20,5
+PHXP,PPTL-20  (Preferred Plus),5
+PHZF,PPTL-20  (ages 56+),5
+PHZQ,PPTL-20  (56+ / Preferred Plus),5
+PHTE,PPTL-20  (WA),5
+PHTP,PPTL-20  (Preferred Plus / WA),5
+PHXF,PPTL-20  (ages 56+ / WA),5
+PHXQ,PPTL-20  (56+ / Preferred Plus / WA),5
+PHXE,PPTL-30,7
+PHXP,PPTL-30  (Preferred Plus),7
+PHTE,PPTL-30  (WA),7
+PHTP,PPTL-30  (Preferred Plus / WA),7
+PHXE,PPTL-10  (with ROP),I
+PHXP,PPTL-10  (Preferred Plus),I
+PHXE,PPTL-20  (with ROP),K
+PHXP,PPTL-20  (Preferred Plus / with ROP),K
+PHXE,PPTL-30  (with ROP),M
+PHXP,PPTL-30  (Preferred Plus),M
+PHTE,Phoenix UL with Guarantee,8
+PHTP,Phoenix UL with Guarantee  (Pfd Plus),8
+          Primerica Life Insurance Company        
+PRIM,Custom Advantage - 10 Year,3
+PRIP,Custom Advantage - 10 Year  (Pfd Plus),3
+PRYM,Custom Protection Series IV - 10 Year,3
+PRIM,Custom Advantage - 15 Year,4
+PRIP,Custom Advantage - 15 Year  (Pfd Plus),4
+PRYM,Custom Protection Series IV - 15 Year,4
+PRIM,Custom Advantage - 20 Year,5
+PRIP,Custom Advantage - 20 Year  (Pfd Plus),5
+PRYM,Custom Protection Series IV - 20 Year,5
+PRIM,Custom Advantage - 25 Year,6
+PRIP,Custom Advantage - 25 Year  (Pfd Plus),6
+PRYM,Custom Protection Series IV - 25 Year,6
+PRIM,Custom Advantage - 30 Year,7
+PRIP,Custom Advantage - 30 Year  (Pfd Plus),7
+PRYM,Custom Protection Series IV - 30 Year,7
+PRIM,Custom Advantage - 35 Year,9
+PRIP,Custom Advantage - 35 Year  (Pfd Plus),9
+PRIN,Custom Advantage - 35 Year  (age 35+),9
+PRIQ,Custom Advantage - 35 Year  (age 35+/P+),9
+          Principal Life Insurance Company        
+PRCI,10-Year Term,3
+PRCP,10-Year Term  (Super Pfd / Super Std),3
+PRCI,15-Year Term,4
+PRCP,15-Year Term  (Super Pfd / Super Std),4
+PRCI,20-Year Term,5
+PRCP,20-Year Term  (Super Pfd / Super Std),5
+PRCI,30-Year Term,7
+PRCP,30-Year Term  (Super Pfd / Super Std),7
+PRDI,30-Year Term  (WA),7
+PRDP,30-Year Term  (Super Pfd / Super Std/WA),7
+          Protective Life & Annuity Insurance Co  
+PRAJ,Empire Term - 10 Year,3
+PRAK,Empire Term - 10 Year  (Super Preferred),3
+PRAJ,Empire Term - 15 Year,4
+PRAK,Empire Term - 15 Year  (Super Preferred),4
+PRAJ,Empire Term - 20 Year,5
+PRAK,Empire Term - 20 Year  (Super Preferred),5
+PRAJ,Empire Term - 25 Year,6
+PRAK,Empire Term - 25 Year  (Super Preferred),6
+          Protective Life Insurance Company       
+PTVL,Protective ValueChoice 10  (eff 6/15/09),3
+PTVP,Protective ValueChoice 10  (Select),3
+PTPL,Protective ValueChoice 10  (til 6/14/09),3
+PTPP,Protective ValueChoice 10  (Select/2008),3
+PTVL,Protective ValueChoice 15  (eff 6/15/09),4
+PTVP,Protective ValueChoice 15  (Select),4
+PTPL,Protective ValueChoice 15  (til 6/14/09),4
+PTPP,Protective ValueChoice 15  (Select/2008),4
+PTVL,Protective ValueChoice 20  (eff 6/15/09),5
+PTVP,Protective ValueChoice 20  (Select),5
+PTPL,Protective ValueChoice 20  (til 6/14/09),5
+PTPP,Protective ValueChoice 20  (Select/2008),5
+PTVL,Protective ValueChoice 25  (eff 6/15/09),6
+PTVP,Protective ValueChoice 25  (Select),6
+PTPL,Protective ValueChoice 25  (til 6/14/09),6
+PTPP,Protective ValueChoice 25  (Select/2008),6
+PTVL,Protective ValueChoice 30  (eff 6/15/09),7
+PTVP,Protective ValueChoice 30  (Select),7
+PTPL,Protective ValueChoice 30  (til 6/14/09),7
+PTPP,Protective ValueChoice 30  (Select/2008),7
+PTVL,Protective Centennial G II 5/09 UL,8
+PTVP,Protective Centennial G II 5/09 UL (Sel),8
+PVLL,Protective Centennial G II 7/08 UL,8
+PVLP,Protective Centennial G II 7/08 UL (Sel),8
+PVLL,Protective Centennial G II UL -Pay to 65,Q
+PVLP,Protective Centennial G II (Select p65),Q
+PVLL,Protective Centennial G II UL - 20 Pay,R
+PVLP,Protective Centennial G II  (Select 20p),R
+PVLL,Protective Centennial G II UL - 10 Pay,S
+PVLP,Protective Centennial G II  (Select 10p),S
+PVLL,Protective Centennial G II - Single Pay,O
+PVLP,Protective Centennial G II (Select 1pay),O
+          Provident Life and Accident Assurance   
+PRTA,Level Term II - 10 Year,3
+PRTB,LTII - 10 Year (Pf Select# R+ Std+),3
+PRTC,LTII - 10 Year (P+),3
+PVTA,Level Term I - 10 Year,3
+PVTB,LTI - 10 Year (Pf Select# R+ Std+),3
+PVTC,LTI - 10 Year (P+),3
+PRXA,Level Term II - 10/5 Year,3
+PRXB,LTII - 10/5 Year (Pf Select# R+ Std+),3
+PRXC,LTII - 10/5 Year (P+),3
+PVXA,Level Term I - 10/5 Year,3
+PVXB,LTI - 10/5 Year (Pf Select# R+ Std+),3
+PVXC,LTI - 10/5 Year (P+),3
+PRTA,Level Term II - 15 Year,4
+PRTB,LTII - 15 Year (Pf Select# R+ Std+),4
+PRTC,LTII - 15 Year (P+),4
+PVTA,Level Term I - 15 Year,4
+PVTB,LTI - 15 Year (Pf Select# R+ Std+),4
+PVTC,LTI - 15 Year (P+),4
+PRXA,Level Term II - 15/5 Year,4
+PRXB,LTII - 15/5 Year (Pf Select# R+ Std+),4
+PRXC,LTII - 15/5 Year (P+),4
+PVXA,Level Term I - 15/5 Year,4
+PVXB,LTI - 15/5 Year (Pf Select# R+ Std+),4
+PVXC,LTI - 15/5 Year (P+),4
+PRTA,Level Term II - 20 Year,5
+PRTB,LTII - 20 Year (Pf Select# R+ Std+),5
+PRTC,LTII - 20 Year (P+),5
+PVTA,Level Term I - 20 Year,5
+PVTB,LTI - 20 Year (Pf Select# R+ Std+),5
+PVTC,LTI - 20 Year (P+),5
+PRXA,Level Term II - 20/5 Year,5
+PRXB,LTII - 20/5 Year (Pf Select# R+ Std+),5
+PRXC,LTII - 20/5 Year (P+),5
+PVXA,Level Term I - 20/5 Year,5
+PVXB,LTI - 20/5 Year (Pf Select# R+ Std+),5
+PVXC,LTI - 20/5 Year (P+),5
+          Pruco Life Insurance Company            
+PRUC,Term Elite 10  (<250K PruXpress ONLY),3
+PRUS,Term Elite 10  (P+ Best / R+ NS+),3
+PPFC,Term Essential 10 (<250K PruXpress ONLY),3
+PPFS,Term Essential 10 (P+ Best / R+ NS+),3
+PPUC,Term Elite 10  (<250K PruXpress ONLY/WA),3
+PPUS,Term Elite 10  (P+ Best / R+ NS+ / WA),3
+PPWC,Term Essential 10 (<250K PruXpress / WA),3
+PPWS,Term Essential 10 (P+ Best / R+ NS+ /WA),3
+PRUC,Term Elite 15  (<250K PruXpress ONLY),4
+PRUS,Term Elite 15  (P+ Best / R+ NS+),4
+PPFC,Term Essential 15 (<250K PruXpress ONLY),4
+PPFS,Term Essential 15 (P+ Best / R+ NS+),4
+PPUC,Term Elite 15  (<250K PruXpress ONLY/WA),4
+PPUS,Term Elite 15  (P+ Best / R+ NS+ / WA),4
+PPWC,Term Essential 15 (<250K PruXpress / WA),4
+PPWS,Term Essential 15 (P+ Best / R+ NS+ /WA),4
+PRUC,Term Elite 20  (<250K PruXpress ONLY),5
+PRUS,Term Elite 20  (P+ Best / R+ NS+),5
+PPFC,Term Essential 20 (<250K PruXpress ONLY),5
+PPFS,Term Essential 20 (P+ Best / R+ NS+),5
+PPUC,Term Elite 20  (<250K PruXpress ONLY/WA),5
+PPUS,Term Elite 20  (P+ Best / R+ NS+ / WA),5
+PPWC,Term Essential 20 (<250K PruXpress / WA),5
+PPWS,Term Essential 20 (P+ Best / R+ NS+ /WA),5
+PPFC,Term Essential 30 (<250K PruXpress ONLY),7
+PPFS,Term Essential 30 (P+ Best / R+ NS+),7
+PPWC,Term Essential 30 (<250K PruXpress / WA),7
+PPWS,Term Essential 30 (P+ Best / R+ NS+ /WA),7
+PPUC,PruLife Return of Premium Term 15,J
+PPUS,PruLife ROP 15  (P+ Best / R+ NS+),J
+PPUC,PruLife Return of Premium Term 20,K
+PPUS,PruLife ROP 20  (P+ Best / R+ NS+),K
+PPUC,PruLife Return of Premium Term 30,M
+PPUS,PruLife ROP 30  (P+ Best / R+ NS+),M
+PRUC,UL Protector with NLG to 121 (250K-999K),8
+PRUS,UL Protector with NLG   (250K-999K/Plus),8
+PPUC,UL Protector with NLG to 121  (1000K+),8
+PPUS,UL Protector with NLG   (1000K / Plus),8
+PPFC,UL Protector with NLG to 121 (250K/2008),8
+PPFS,UL Protector with NLG   (250K/2008/Plus),8
+PPWC,UL Protector with NLG to 121 (1000K+/08),8
+PPWS,UL Protector with NLG  (1000K/2008/Plus),8
+PRUC,UL Protector w/NLG to 121 - 20 Pay (250),R
+PRUS,UL Protector w/NLG to 121 - (250K/Plus),R
+PPUC,UL Protector w/NLG to 121 - 20 Pay ($1m),R
+PPUS,UL Protector w/NLG to 121 - ($1m/Plus),R
+PPFC,UL Protector w/NLG - 20 Pay (250k/2008),R
+PPFS,UL Protector w/NLG to 121 - (250K/Plus),R
+PPWC,UL Protector w/NLG - 20 Pay ($1m/2008),R
+          Pruco Life Insurance Company            
+PPWS,UL Protector w/NLG to 121 - ($1m/Plus),R
+PRUC,UL Protector w/NLG to 121 - 10 Pay (250),S
+PRUS,UL Protector w/NLG to 121 - (250K/Plus),S
+PPUC,UL Protector w/NLG to 121 - 10 Pay ($1m),S
+PPUS,UL Protector w/NLG to 121 - ($1m/Plus),S
+PPFC,UL Protector w/NLG - 10 Pay (250k/2008),S
+PPFS,UL Protector w/NLG to 121 - (250K/Plus),S
+PPWC,UL Protector w/NLG - 10 Pay ($1m/2008),S
+PPWS,UL Protector w/NLG to 121 - ($1m/Plus),S
+          Pruco Life Insurance Co of New Jersey   
+PPYC,Term Elite 10  (NY/<250K PruXpress ONLY),3
+PPYS,Term Elite 10  (NY / P+ Best / R+ NS+),3
+PYYC,Term Essential 10 (NY/<250K PruXpress),3
+PYYS,Term Essential 10 (NY /P+ Best / R+ NS+),3
+PPYC,Term Elite 15  (NY/<250K PruXpress ONLY),4
+PPYS,Term Elite 15  (NY/ P+ Best / R+ NS+),4
+PYYC,Term Essential 15 (NY/<250K PruXpress),4
+PYYS,Term Essential 15 (NY /P+ Best / R+ NS+),4
+PPYC,Term Elite 20  (NY/<250K PruXpress ONLY),5
+PPYS,Term Elite 20  (NY / P+ Best / R+ NS+),5
+PYYC,Term Essential 20 (NY/<250K PruXpr ONLY),5
+PYYS,Term Essential 20 (NY /P+ Best / R+ NS+),5
+PYYC,Term Essential 30 (NY/<250K PruXpress),7
+PYYS,Term Essential 30 (NY /P+ Best / R+ NS+),7
+PRJC,PruLife Return of Premium Term 15,J
+PRJS,PruLife ROP 15  (P+ Best / R+ NS+),J
+PRJC,PruLife Return of Premium Term 20,K
+PRJS,PruLife ROP 20  (P+ Best / R+ NS+),K
+PRJC,PruLife Return of Premium Term 30,M
+PRJS,PruLife ROP 30  (P+ Best / R+ NS+),M
+PPYC,UL Protector with NLG to 121 (250K-999K),8
+PPYS,UL Protector with NLG   (250K-999K/Plus),8
+PYYC,UL Protector with NLG to 121  (1000K+),8
+PYYS,UL Protector with NLG   (1000K / Plus),8
+          The Pyramid Life Insurance Company      
+PYRA,Annual Renewable Term,1
+          ReliaStar Life Insurance Company  (ING) 
+RDTS,TermSmart 10 - 10 Year Term,3
+RDTP,TermSmart 10 - (P+ Super / R+ Select),3
+ROTS,TermSmart 10 - 10 Year Term  (OR),3
+ROTP,TermSmart 10 - (P+ Super / R+ Select/OR),3
+RWTS,TermSmart 10 - 10 Year Term  (WA),3
+RWTP,TermSmart 10 - (P+ Super / R+ Select/WA),3
+RDSS,TermSmart 10 - 10 Year Term  (2007),3
+RDSP,TermSmart 10 - (P+ Super/R+ Select/07),3
+ROSS,TermSmart 10 - 10 Year Term  (OR/2007),3
+ROSP,TermSmart 10 - (P+ Super/R+ Select/OR/07,3
+RWSS,TermSmart 10 - 10 Year Term  (WA/2007),3
+RWSP,TermSmart 10 - (P+ Super/R+ Select/WA/07,3
+RDTS,TermSmart 15 - 15 Year Term,4
+RDTP,TermSmart 15 - (P+ Super / R+ Select),4
+ROTS,TermSmart 15 - 15 Year Term  (OR),4
+ROTP,TermSmart 15 - (P+ Super / R+ Select/OR),4
+RWTS,TermSmart 15 - 15 Year Term  (WA),4
+RWTP,TermSmart 15 - (P+ Super / R+ Select/WA),4
+RDSS,TermSmart 15 - 15 Year Term  (2007),4
+RDSP,TermSmart 15 - (P+ Super/R+ Select/07),4
+ROSS,TermSmart 15 - 15 Year Term  (OR/2007),4
+ROSP,TermSmart 15 - (P+ Super/R+ Select/OR/07,4
+RWSS,TermSmart 15 - 15 Year Term  (WA/2007),4
+RWSP,TermSmart 15 - (P+ Super/R+ Select/WA/07,4
+RDTS,TermSmart 20 - 20 Year Term,5
+RDTP,TermSmart 20 - (P+ Super / R+ Select),5
+ROTS,TermSmart 20 - 20 Year Term  (OR),5
+ROTP,TermSmart 20 - (P+ Super / R+ Select/OR),5
+RWTS,TermSmart 20 - 20 Year Term  (WA),5
+RWTP,TermSmart 20 - (P+ Super / R+ Select/WA),5
+RDSS,TermSmart 20 - 20 Year Term  (2007),5
+RDSP,TermSmart 20 - (P+ Super/R+ Select/07),5
+ROSS,TermSmart 20 - 20 Year Term  (OR/2007),5
+ROSP,TermSmart 20 - (P+ Super/R+ Select/OR/07,5
+RWSS,TermSmart 20 - 20 Year Term  (WA/2007),5
+RWSP,TermSmart 20 - (P+ Super/R+ Select/WA/07,5
+RDTS,TermSmart 30 - 30 Year Term,7
+RDTP,TermSmart 30 - (P+ Super / R+ Select),7
+ROTS,TermSmart 30 - 30 Year Term  (OR),7
+ROTP,TermSmart 30 - (P+ Super / R+ Select/OR),7
+RDSS,TermSmart 30 - 30 Year Term  (2007),7
+RDSP,TermSmart 30 - (P+ Super/R+ Select/07),7
+ROSS,TermSmart 30 - 30 Year Term  (OR/2007),7
+ROSP,TermSmart 30 - (P+ Super/R+ Select/OR/07,7
+ROTS,ING ROP Term - 15 Enhanced,J
+ROTP,ING ROP Term - 15 Enhanced  (P+/R+),J
+ROTS,ING ROP Term - 20 Enhanced,K
+ROTP,ING ROP Term - 20 Enhanced  (P+/R+),K
+ROTS,ING ROP Term - 30 Enhanced,M
+          ReliaStar Life Insurance Company  (ING) 
+ROTP,ING ROP Term - 30 Enhanced  (P+/R+),M
+          ReliaStar Life Insurance of NY  (ING)   
+RFNS,TermSmart 10 - 10 Year Term,3
+RFNT,TermSmart 10 - (P+ Super / R+ Select),3
+RFNS,TermSmart 15 - 15 Year Term,4
+RFNT,TermSmart 15 - (P+ Super / R+ Select),4
+RFNS,TermSmart 20 - 20 Year Term,5
+RFNT,TermSmart 20 - (P+ Super / R+ Select),5
+RFNS,TermSmart 30 - 30 Year Term,7
+RFNT,TermSmart 30 - (P+ Super / R+ Select),7
+RYNS,ING ROP Term - 15 Enhanced,J
+RYNT,ING ROP Term - 15 Enhanced  (P+/R+),J
+RYNS,ING ROP Term - 20 Enhanced,K
+RYNT,ING ROP Term - 20 Enhanced  (P+/R+),K
+RYNS,ING ROP Term - 30 Enhanced,M
+RYNT,ING ROP Term - 30 Enhanced  (P+/R+),M
+RFNS,ING Guaranteed Death Benefit UL,8
+RFNT,ING Guaranteed Death Benefit UL  (Plus),8
+          Royal Neighbors of America              
+ROYA,Royal Advantage 10 - 10 Year Level Term,3
+ROYP,Royal Advantage 10 - 10 Year  (Super),3
+ROYA,Royal Advantage 20 - 20 Year Level Term,5
+ROYP,Royal Advantage 20 - 20 Year  (Super),5
+ROYA,Royal Advantage 30 - 30 Year Level Term,7
+ROYP,Royal Advantage 30 - 30 Year  (Super),7
+ROYA,Royal Advantage 10 - 10 Year with ROP,I
+ROYP,Royal Advantage 10 with ROP  (Super),I
+ROYA,Royal Advantage 20 - 20 Year with ROP,K
+ROYP,Royal Advantage 20 with ROP  (Super),K
+ROYA,Royal Advantage 30 - 30 Year with ROP,M
+ROYP,Royal Advantage 30 with ROP  (Super),M
+          Sagicor Life Insurance Company          
+SAGI,Platinum Series 20,5
+SAGP,Platinum Series 20  (Super Pfd),5
+SAGI,Platinum Series 30,7
+SAGP,Platinum Series 30  (Super Pfd),7
+SAGI,Platinum Series 20 with ROP,K
+SAGP,Platinum Series 20 with ROP  (Super Pfd),K
+SAGI,Platinum Series 30 with ROP,M
+SAGP,Platinum Series 30 with ROP  (Super Pfd),M
+          Savings Bank Life Insurance Co of MA    
+SAVE,T-10/10 - 10 Year Term Guaranteed 10,3
+SAVP,T-10/10 - 10 Year (P+ / R+),3
+SAVE,T-15/15 - 15 Year Term Guaranteed 15,4
+SAVP,T-15/15 - 15 Year (P+ / R+),4
+SAVE,T-20/20 - 20 Year Term Guaranteed 20,5
+SAVP,T-20/20 - 20 Year (P+ / R+),5
+SAVE,T-25/25 - 25 Year Term Guaranteed 25,6
+SAVP,T-25/25 - 25 Year (P+ / R+),6
+SAVE,T-30/30 - 30 Year Term Guaranteed 30,7
+SAVP,T-30/30 - 30 Year (P+ / R+),7
+          Security Life of Denver Ins Co   (ING)  
+SETE,ING Guaranteed Death Benefit UL II,8
+SETP,ING Guaranteed Death Benefit UL II  Plus,8
+          Security Mutual Life Insurance Co of NY 
+SMPT,LT Protector 10-Year,3
+SMPP,LT Protector 10-Year  (Preferred Plus),3
+SMYT,LT Protector 10-Year  (NY),3
+SMYP,LT Protector 10-Year  (Pfd Plus / NY),3
+SMMT,Premier LT Suite 10-Year  (4/2007),3
+SMMP,Premier LT Suite 10-Year  (P+ / 4/2007),3
+SNMT,Premier LT Suite 10-Year,3
+SNMP,Premier LT Suite 10-Year  (P+),3
+SMPT,LT Protector 15-Year,4
+SMPP,LT Protector 15-Year  (Preferred Plus),4
+SMYT,LT Protector 15-Year  (NY),4
+SMYP,LT Protector 15-Year  (Pfd Plus / NY),4
+SMMT,Premier LT Suite 15-Year,4
+SMMP,Premier LT Suite 15-Year  (P+),4
+SMPT,LT Protector 20-Year,5
+SMPP,LT Protector 20-Year  (Preferred Plus),5
+SMYT,LT Protector 20-Year  (NY),5
+SMYP,LT Protector 20-Year  (Pfd Plus / NY),5
+SMMT,Premier LT Suite 20-Year  (4/2007),5
+SMMP,Premier LT Suite 20-Year  (P+ / 4/2007),5
+SNMT,Premier LT Suite 20-Year,5
+SNMP,Premier LT Suite 20-Year  (P+),5
+SMPT,LT Protector 30-Year,7
+SMPP,LT Protector 30-Year  (Preferred Plus),7
+SMYT,LT Protector 30-Year  (NY),7
+SMYP,LT Protector 30-Year  (Pfd Plus / NY),7
+          Stonebridge Life Insurance Company      
+STON,Stonebridge Term - 10 Year,3
+STOE,Stonebridge Term - 10  (Pfd. Elite),3
+STOP,Stonebridge Term - 10  (Pfd. Plus),3
+STON,Stonebridge Term - 15 Year,4
+STOE,Stonebridge Term - 15  (Pfd. Elite),4
+STOP,Stonebridge Term - 15  (Pfd. Plus),4
+STON,Stonebridge Term - 20 Year,5
+STOE,Stonebridge Term - 20  (Pfd. Elite),5
+STOP,Stonebridge Term - 20  (Pfd. Plus),5
+STON,Stonebridge Term - 30 Year,7
+STOE,Stonebridge Term - 30  (Pfd. Elite),7
+STOP,Stonebridge Term - 30  (Pfd. Plus),7
+STON,Stonebridge Term - 20 Year with ROP,K
+STOE,Stonebridge Term - 20  (Pfd. Elite/ROP),K
+STOP,Stonebridge Term - 20  (Pfd. Plus/ROP),K
+STON,Stonebridge Term - 30 Year with ROP,M
+STOE,Stonebridge Term - 30  (Pfd. Elite/ROP),M
+STOP,Stonebridge Term - 30  (Pfd. Plus/ROP),M
+          Sun Life Assurance Company of CA (U.S.) 
+SUNL,Sun Universal Protector,8
+SUNP,Sun Universal Protector  (Super Pfd),8
+SUNL,Sun Universal Protector - Pay to 100,P
+SUNP,Universal Protector - Pay to 100 (Super),P
+SUNL,Sun Universal Protector - 10 Pay,S
+SUNP,Sun Universal Protector - 10 Pay (Super),S
+SUNL,Sun Universal Protector - Single Pay,O
+SUNP,Sun Universal Protector - 1 Pay  (Super),O
+          Sun Life Insurance & Annuity of NY      
+SYNL,Sun Universal Protector,8
+SYNP,Sun Universal Protector  (Super Pfd),8
+SYNL,Sun Universal Protector - Pay to 100,P
+SYNP,Universal Protector - Pay to 100 (Super),P
+SYNL,Sun Universal Protector - 10 Pay,S
+SYNP,Sun Universal Protector - 10 Pay (Super),S
+SYNL,Sun Universal Protector - Single Pay,O
+SYNP,Sun Universal Protector - 1 Pay  (Super),O
+          Sunset Life Insurance Company of America
+SUNS,Select Term to 95 Plus,1
+SUSN,Term 10 - 10 Year Term,3
+SUSP,Preferred Elite Term 10,3
+SUSN,Term 20 - 20 Year Term,5
+SUSP,Preferred Elite Term 20,5
+          Symetra Life Insurance Company          
+SAFE,Expert-ART (Non-Smoker),1
+SAFS,Expert-ART (Smoker),1
+SZME,10 Year Level Term,3
+SZMP,10 Year Level Term  (Preferred Plus),3
+SZMB,10 Year Level Term  (Preferred Best),3
+SYME,10 Year Level Term  (2005),3
+SYMP,10 Year Level Term  (Preferred Plus/05),3
+SYMB,10 Year Level Term  (Preferred Best/05),3
+SYOE,10 Year Level Term  (WA),3
+SYOP,10 Year Level Term  (Pfd Plus / WA),3
+SYOB,10 Year Level Term  (Pfd Best / WA),3
+SZME,15 Year Level Term,4
+SZMP,15 Year Level Term  (Preferred Plus),4
+SZMB,15 Year Level Term  (Preferred Best),4
+SYME,15 Year Level Term  (2005),4
+SYMP,15 Year Level Term  (Preferred Plus/05),4
+SYMB,15 Year Level Term  (Preferred Best/05),4
+SYOE,15 Year Level Term  (WA),4
+SYOP,15 Year Level Term  (Pfd Plus / WA),4
+SYOB,15 Year Level Term  (Pfd Best / WA),4
+SZME,20 Year Level Term,5
+SZMP,20 Year Level Term  (Preferred Plus),5
+SZMB,20 Year Level Term  (Preferred Best),5
+SYME,20 Year Level Term  (2005),5
+SYMP,20 Year Level Term  (Preferred Plus/05),5
+SYMB,20 Year Level Term  (Preferred Best/05),5
+SYOE,20 Year Level Term  (WA),5
+SYOP,20 Year Level Term  (Pfd Plus / WA),5
+SYOB,20 Year Level Term  (Pfd Best / WA),5
+SZME,30 Year Level Term,7
+SZMP,30 Year Level Term  (Preferred Plus),7
+SZMB,30 Year Level Term  (Preferred Best),7
+SYME,30 Year Level Term  (2005),7
+SYMP,30 Year Level Term  (Preferred Plus/05),7
+SYMB,30 Year Level Term  (Preferred Best/05),7
+SYOE,30 Year Level Term  (WA),7
+SYOP,30 Year Level Term  (Pfd Plus / WA),7
+SYOB,30 Year Level Term  (Pfd Best / WA),7
+          TIAA-CREF Life Insurance Company        
+TIAA,Annual Renewable Term Life Insurance,1
+TIAP,Annual Renewable Term  (Preferred Plus),1
+TINA,Annual Renewable Term Life  (NY),1
+TINP,Annual Renewable Term  (Pref Plus / NY),1
+TIAA,10-Year Level Term,3
+TIAP,10-Year Level Term  (Preferred Plus),3
+TINA,10-Year Level Term  (NY),3
+TINP,10-Year Level Term  (Pref Plus / NY),3
+TIAA,15-Year Level Term,4
+TIAP,15-Year Level Term  (Preferred Plus),4
+TINA,15-Year Level Term  (NY),4
+TINP,15-Year Level Term  (Pref Plus / NY),4
+TIAA,20-Year Level Term,5
+TIAP,20-Year Level Term  (Preferred Plus),5
+TINA,20-Year Level Term  (NY),5
+TINP,20-Year Level Term  (Pref Plus / NY),5
+TIAA,30-Year Level Term,7
+TIAP,30-Year Level Term  (Preferred Plus),7
+TINA,30-Year Level Term  (NY),7
+TINP,30-Year Level Term  (Pref Plus / NY),7
+          Transamerica Financial Life Insurance Co
+TYSA,Trendsetter Super YRT,1
+TYSP,Trendsetter Super YRT  (Plus),1
+TYSA,Trendsetter Super 10,3
+TYSP,Trendsetter Super 10 (Preferred Plus),3
+TYSS,Trendsetter Super 10 (Standard Plus),3
+TYSA,Trendsetter Super 15,4
+TYSP,Trendsetter Super 15 (Preferred Plus),4
+TYSS,Trendsetter Super 15 (Standard Plus),4
+TYSA,Trendsetter Super 20,5
+TYSP,Trendsetter Super 20 (Preferred Plus),5
+TYSS,Trendsetter Super 20 (Standard Plus),5
+TYSA,Trendsetter Super 25,6
+TYSP,Trendsetter Super 25  (Preferred Plus),6
+TYSS,Trendsetter Super 25  (Standard Plus),6
+TYSA,Trendsetter Super 30,7
+TYSP,Trendsetter Super 30  (Preferred Plus),7
+TYSS,Trendsetter Super 30  (Standard Plus),7
+TYNA,Final Expense Insurance,P
+          Transamerica Life Ins Co  (Family Mkt)  
+TLEE,Ultima Elite Term II - 10 Year,3
+TLES,Ultima Elite Term II - 10  (Pfd. Elite),3
+TLEP,Ultima Elite Term II - 10  (Pfd. Plus),3
+TLEE,Ultima Elite Term II - 15 Year,4
+TLES,Ultima Elite Term II - 15  (Pfd. Elite),4
+TLEP,Ultima Elite Term II - 15  (Pfd. Plus),4
+TLUE,Home Protector Elite - 15 Year Level,4
+TLEE,Ultima Elite Term II - 20 Year,5
+TLES,Ultima Elite Term II - 20  (Pfd. Elite),5
+TLEP,Ultima Elite Term II - 20  (Pfd. Plus),5
+TLUE,Home Protector Elite - 20 Year Level,5
+TLUE,Home Protector Elite - 25 Year Level,6
+TLEE,Ultima Elite Term II - 30 Year,7
+TLES,Ultima Elite Term II - 30  (Pfd. Elite),7
+TLEP,Ultima Elite Term II - 30  (Pfd. Plus),7
+TLUE,Home Protector Elite - 30 Year Level,7
+TLDE,Ultima Elite II - 20 Year with ROP,K
+TLDS,Ultima Elite II - 20  (Pfd. Elite/ROP),K
+TLDP,Ultima Elite II - 20  (Pfd. Plus/ROP),K
+TLUE,Home Protector Elite - 20 Year w/ROP,K
+TLUE,Home Protector Elite - 25 Year w/ROP,L
+TLDE,Ultima Elite II - 30 Year with ROP,M
+TLDS,Ultima Elite II - 30  (Pfd. Elite/ROP),M
+TLDP,Ultima Elite II - 30  (Pfd. Plus/ROP),M
+TLEE,Ultima Elite II - 30 Year with ROP  (PA),M
+TLES,Ultima Elite II - 30  (Pfd. Elite/ROP/PA,M
+TLEP,Ultima Elite II - 30  (Pfd. Plus/ROP/PA),M
+TLUE,Home Protector Elite - 30 Year w/ROP,M
+          Transamerica Life Insurance Co  (TIIG)  
+TOCA,Trendsetter Super YRT,1
+TOCP,Trendsetter Super YRT  (Plus),1
+TRCA,Trendsetter Super YRT  (MD),1
+TRCP,Trendsetter Super YRT  (Plus / MD),1
+TOCA,Trendsetter Super 10,3
+TOCP,Trendsetter Super 10 (Preferred Plus),3
+TOCS,Trendsetter Super 10 (Standard Plus),3
+TOCA,Trendsetter Super 15,4
+TOCP,Trendsetter Super 15 (Preferred Plus),4
+TOCS,Trendsetter Super 15 (Standard Plus),4
+TOCA,Trendsetter Super 20,5
+TOCP,Trendsetter Super 20 (Preferred Plus),5
+TOCS,Trendsetter Super 20 (Standard Plus),5
+TOCA,Trendsetter Super 25,6
+TOCP,Trendsetter Super 25  (Preferred Plus),6
+TOCS,Trendsetter Super 25  (Standard Plus),6
+TOCA,Trendsetter Super 30,7
+TOCP,Trendsetter Super 30  (Preferred Plus),7
+TOCS,Trendsetter Super 30  (Standard Plus),7
+TRCA,Trendsetter ROP 30,M
+TRCP,Trendsetter ROP 30  (Preferred Plus),M
+TRCS,Trendsetter ROP 30  (Standard Plus),M
+TOCA,TransACE 2007 - No Lapse UL to 121,8
+TOCP,TransACE 2007 - No Lapse UL to 121 (P+),8
+TFNA,Final Expense Insurance,P
+TWNA,Final Expense Insurance  (WA),P
+          Trustmark Insurance Company             
+TRUT,TermNet 5-Year Term,2
+TRTU,TermNet 10-Year Term,3
+TRUT,TermNet 15-Year Term,4
+          Union Central Life Insurance Company    
+UTGC,Keystone Term 1,1
+UTGP,Keystone Term 1  (P+ / R+ Select),1
+UNYN,Keystone Term 1  (NY),1
+UNYS,Keystone Term 1  (P+ / R+ Select) (NY),1
+UTGC,Keystone Term 10,3
+UTGP,Keystone Term 10  (P+ / R+ Select),3
+UNZY,Keystone Term 10  (NY),3
+UNZP,Keystone Term 10  (P+ / R+ Select) (NY),3
+UTGC,Keystone Term 15,4
+UTGP,Keystone Term 15  (P+ / R+ Select),4
+UTIC,Keystone Term 15       (CA# IN# OR# PA),4
+UTIP,Keystone Term 15  (P+/R+) (CA#IN#PA&OR),4
+UNZY,Keystone Term 15  (NY),4
+UNZP,Keystone Term 15  (P+ / R+ Select) (NY),4
+UTGC,Keystone Term 20,5
+UTGP,Keystone Term 20  (P+ / R+ Select),5
+UTIC,Keystone Term 20       (CA# IN# OR# PA),5
+UTIP,Keystone Term 20  (P+/R+) (CA#IN#OR#PA),5
+UNZY,Keystone Term 20  (NY),5
+UNZP,Keystone Term 20  (P+ / R+ Select) (NY),5
+UTGC,Keystone Term 30,7
+UTGP,Keystone Term 30  (P+ / R+ Select),7
+UTIC,Keystone Term 30       (CA# IN# OR# PA),7
+UTIP,Keystone Term 30  (P+/R+) (CA#IN#PA#OR),7
+UNZY,Keystone Term 30  (NY),7
+UNZP,Keystone Term 30  (P+ / R+ Select) (NY),7
+          The Union Labor Life Insurance Company  
+UNLI,Annual Renewable Term,1
+          United Heritage Mutual Life Insurance   
+UTHE,ART100 - Annual Renewable Term,1
+          United Home Life Insurance Company      
+UTHO,Express Issue Term 20,5
+UTHO,Express Issue Term 30,7
+UTHO,Premier Term 20  (with ROP),K
+UTHO,Premier Term 30  (with ROP),M
+          United of Omaha Life Insurance Company  
+UTPP,Term Life 10 - 10 Year Term,3
+UTPQ,Term Life 10  (Plus),3
+UTPP,Term Life 15 - 15 Year Term,4
+UTPQ,Term Life 15  (Plus),4
+UTEP,Term Life Express - 15 Year,4
+UTCP,Term Life Complete - 15 Year,4
+UTPP,Term Life 20 - 20 Year Term,5
+UTPQ,Term Life 20  (Plus),5
+UTEP,Term Life Express - 20 Year,5
+UTCP,Term Life Complete - 20 Year,5
+UTPP,Term Life 30 - 30 Year Term,7
+UTPQ,Term Life 30  (Plus),7
+UTEP,Term Life Express - 30 Year,7
+UTCP,Term Life Complete - 30 Year,7
+UTEP,Term Life Express - 15 Year with ROP,J
+UTCP,Term Life Complete - 15 Year with ROP,J
+UTEP,Term Life Express - 20 Year with ROP,K
+UTCP,Term Life Complete - 20 Year with ROP,K
+UTEP,Term Life Express - 30 Year with ROP,M
+UTCP,Term Life Complete - 30 Year with ROP,M
+UTPP,GUL Complete - Guaranteed to 120,8
+UTPQ,GUL Complete - Guaranteed to 120  (Plus),8
+UTPP,GUL Complete - Pay to 100,P
+UTPQ,GUL Complete - Pay to 100         (Plus),P
+UTPP,GUL Complete - pay to 65,Q
+UTPQ,GUL Complete - pay to 65  (Plus),Q
+UTPP,GUL Complete - 20 Pay,R
+UTPQ,GUL Complete - 20 Pay  (Plus),R
+UTPP,GUL Complete - 10 Pay,S
+UTPQ,GUL Complete - 10 Pay  (Plus),S
+UTPP,GUL Complete - Single Pay,O
+UTPQ,GUL Complete - Single Pay  (Plus),O
+          United States Life Ins in the City of NY
+USYD,Select-a-Term - 10 Year,3
+USYE,Select-a-Term - 10 Year  (Plus),3
+UTCG,LTG Ultra-C NY -10 Year,3
+UTCH,LTG Ultra-C NY -10 Year (Plus),3
+USYD,Select-a-Term - 15 Year,4
+USYE,Select-a-Term - 15 Year  (Plus),4
+UTCG,LTG Ultra-C NY -15 Year,4
+UTCH,LTG Ultra-C NY -15 Year (Plus),4
+USYD,Select-a-Term - 20 Year,5
+USYE,Select-a-Term - 20 Year  (Plus),5
+UTCG,LTG Ultra-C NY -20 Year,5
+UTCH,LTG Ultra-C NY -20 Year (Plus),5
+USYD,Select-a-Term - 25 Year,6
+USYE,Select-a-Term - 25 Year  (Plus),6
+USYD,Select-a-Term - 30 Year,7
+USYE,Select-a-Term - 30 Year  (Plus),7
+UTCG,LTG Ultra-C NY -30 Year,7
+UTCH,LTG Ultra-C NY -30 Year (Plus),7
+USYD,Select-a-Term - Level to 65,T
+USYE,Select-a-Term - Level to 65  (Plus),T
+USYD,Select-a-Term - Level to 70,U
+USYE,Select-a-Term - Level to 70  (Plus),U
+USYD,Select-a-Term - Level to 75,V
+USYE,Select-a-Term - Level to 75  (Plus),V
+UTYD,ROP Select-a-Term - 15 Year,J
+UTYE,ROP Select-a-Term - 15 Year  (Plus),J
+UTYD,ROP Select-a-Term - 20 Year,K
+UTYE,ROP Select-a-Term - 20 Year  (Plus),K
+UTYD,ROP Select-a-Term - 25 Year,L
+UTYE,ROP Select-a-Term - 25 Year  (Plus),L
+UTYD,ROP Select-a-Term - 30 Year,M
+UTYE,ROP Select-a-Term - 30 Year  (Plus),M
+UTYD,ROP Select-a-Term - Level to 65,W
+UTYE,ROP Select-a-Term - Level to 65  (Plus),W
+UTYD,ROP Select-a-Term - Level to 70,X
+UTYE,ROP Select-a-Term - Level to 70  (Plus),X
+UTYD,ROP Select-a-Term - Level to 75,Y
+UTYE,ROP Select-a-Term - Level to 75  (Plus),Y
+UTYD,ContinUL Extend - no lapse U/L,8
+UTYE,ContinUL Extend - no lapse U/L  (Plus),8
+USYD,ContinUL Extend - no lapse U/L  ($500K),8
+USYE,ContinUL Extend - no lapse U/L  (+/500K,8
+          United States Life Ins in the City of NY
+UTAG,Select-a-Term - 12 Year,F
+UTAH,Select-a-Term - 12 Year  (Plus),F
+UTBG,Select-a-Term - 16 Year,F
+UTBH,Select-a-Term - 16 Year  (Plus),F
+UTCG,Select-a-Term - 17 Year,F
+UTCH,Select-a-Term - 17 Year  (Plus),F
+UTDG,Select-a-Term - 18 Year,F
+UTDH,Select-a-Term - 18 Year  (Plus),F
+UTEG,Select-a-Term - 19 Year,F
+UTEH,Select-a-Term - 19 Year  (Plus),F
+UTFG,Select-a-Term - 21 Year,F
+UTFH,Select-a-Term - 21 Year  (Plus),F
+UTGG,Select-a-Term - 22 Year,F
+UTGH,Select-a-Term - 22 Year  (Plus),F
+UTHG,Select-a-Term - 23 Year,F
+UTHH,Select-a-Term - 23 Year  (Plus),F
+UTIG,Select-a-Term - 24 Year,F
+UTIH,Select-a-Term - 24 Year  (Plus),F
+UTJG,Select-a-Term - 26 Year,F
+UTJH,Select-a-Term - 26 Year  (Plus),F
+UTKG,Select-a-Term - 27 Year,F
+UTKH,Select-a-Term - 27 Year  (Plus),F
+UTLG,Select-a-Term - 28 Year,F
+UTLH,Select-a-Term - 28 Year  (Plus),F
+UTMG,Select-a-Term - 29 Year,F
+UTMH,Select-a-Term - 29 Year  (Plus),F
+USES,Select-a-Term 10    (Special),F
+USFS,Select-a-Term 15    (Special),F
+USGS,Select-a-Term 20    (Special),F
+USHS,Select-a-Term 25    (Special),F
+USIS,Select-a-Term 30    (Special),F
+UTQS,ROP Select-a-Term - 15 Year  (Special),F
+UTRS,ROP Select-a-Term - 20 Year  (Special),F
+UTSS,ROP Select-a-Term - 25 Year  (Special),F
+UTTS,ROP Select-a-Term - 30 Year  (Special),F
+UTES,LTG Ultra-C NY -10 Year  (Special),F
+UTFS,LTG Ultra-C NY -15 Year  (Special),F
+UTGS,LTG Ultra-C NY -20 Year  (Special),F
+UTHS,LTG Ultra-C NY -30 Year  (Special),F
+UTIS,ROPTerm NY -15 Year  (Special / 2006),F
+UTJS,ROPTerm NY -20 Year  (Special / 2006),F
+UTFG,ROP Select-a-Term - 21 Year,N
+UTFH,ROP Select-a-Term - 21 Year  (Plus),N
+UTGG,ROP Select-a-Term - 22 Year,N
+UTGH,ROP Select-a-Term - 22 Year  (Plus),N
+UTHG,ROP Select-a-Term - 23 Year,N
+UTHH,ROP Select-a-Term - 23 Year  (Plus),N
+UTIG,ROP Select-a-Term - 24 Year,N
+UTIH,ROP Select-a-Term - 24 Year  (Plus),N
+          United States Life Ins in the City of NY
+UTJG,ROP Select-a-Term - 26 Year,N
+UTJH,ROP Select-a-Term - 26 Year  (Plus),N
+UTKG,ROP Select-a-Term - 27 Year,N
+UTKH,ROP Select-a-Term - 27 Year  (Plus),N
+UTLG,ROP Select-a-Term - 28 Year,N
+UTLH,ROP Select-a-Term - 28 Year  (Plus),N
+UTMG,ROP Select-a-Term - 29 Year,N
+UTMH,ROP Select-a-Term - 29 Year  (Plus),N
+UTNG,ROP Select-a-Term - 31 Year,N
+UTNH,ROP Select-a-Term - 31 Year  (Plus),N
+UTOG,ROP Select-a-Term - 32 Year,N
+UTOH,ROP Select-a-Term - 32 Year  (Plus),N
+UTPG,ROP Select-a-Term - 33 Year,N
+UTPH,ROP Select-a-Term - 33 Year  (Plus),N
+UTQG,ROP Select-a-Term - 34 Year,N
+UTQH,ROP Select-a-Term - 34 Year  (Plus),N
+UTRG,ROP Select-a-Term - 35 Year,N
+UTRH,ROP Select-a-Term - 35 Year  (Plus),N
+          West Coast Life Insurance Company       
+WCJJ,Focus Term 10 - 10 Year  (eff 6/15/09),3
+WCJK,Focus Term 10 - 10 Year  (Super Pfd),3
+WGCJ,Focus Term 10 - 10 Year  (til 6/14/09),3
+WGCK,Focus Term 10 - 10 Year  (Super Pf/2008),3
+WCJJ,Focus Term 15 - 15 Year  (eff 6/15/09),4
+WCJK,Focus Term 15 - 15 Year  (Super Pfd),4
+WGCJ,Focus Term 15 - 15 Year  (til 6/14/09),4
+WGCK,Focus Term 15 - 15 Year  (Super Pf/2008),4
+WCJJ,Focus Term 20 - 20 Year  (eff 6/15/09),5
+WCJK,Focus Term 20 - 20 Year  (Super Pfd),5
+WGCJ,Focus Term 20 - 20 Year  (til 6/14/09),5
+WGCK,Focus Term 20 - 20 Year  (Super Pf/2008),5
+WCJJ,Focus Term 25 - 25 Year  (eff 6/15/09),6
+WCJK,Focus Term 25 - 25 Year  (Super Pfd),6
+WGCJ,Focus Term 25 - 25 Year  (til 6/14/09),6
+WGCK,Focus Term 25 - 25 Year  (Super Pf/2008),6
+WCJJ,Focus Term 10 - 10 Year  (eff 6/15/09),7
+WCJK,Focus Term 30 - 30 Year  (Super Pfd),7
+WGCJ,Focus Term 30 - 30 Year  (til 6/14/09),7
+WGCK,Focus Term 30 - 30 Year  (Super Pf/2008),7
+WDUJ,LifeTime Platinum III 5/09,8
+WDUK,LifeTime Platinum III 5/09  (Super Pfd),8
+WDCJ,LifeTime Platinum III 7/08,8
+WDCK,LifeTime Platinum III 7/08  (Super Pfd),8
+WDCJ,LifeTime Platinum III 7/08 - Pay to 65,Q
+WDCK,LifeTime Platinum III 7/08  (Select p65),Q
+WDCJ,LifeTime Platinum III 7/08 - 20 Pay,R
+WDCK,LifeTime Platinum III 7/08  (Select 20p),R
+WDCJ,LifeTime Platinum III 7/08 - 10 Pay,S
+WDCK,LifeTime Platinum III 7/08  (Select 10p),S
+WDCJ,LifeTime Platinum III 7/08 - Single Pay,O
+WDCK,LifeTime Platinum III 7/08 (Select 1pay),O
+          Western Reserve Life Assurance Co of OH 
+WTRE,WRL TermPlus - 10 Year,3
+WTRS,WRL TermPlus - 10 Year  (Pfd Elite),3
+WTRP,WRL TermPlus - 10 Year  (Pfd Plus),3
+WTRE,WRL TermPlus - 15 Year,4
+WTRS,WRL TermPlus - 15 Year  (Pfd Elite),4
+WTRP,WRL TermPlus - 15 Year  (Pfd Plus),4
+WTRE,WRL TermPlus - 20 Year,5
+WTRS,WRL TermPlus - 20 Year  (Pfd Elite),5
+WTRP,WRL TermPlus - 20 Year  (Pfd Plus),5
+WTRE,WRL TermPlus - 30 Year,7
+WTRS,WRL TermPlus - 30 Year  (Pfd Elite),7
+WTRP,WRL TermPlus - 30 Year  (Pfd Plus),7
+WTRE,WRL TermPlus with ROP - 20 Year,K
+WTRS,WRL TermPlus with ROP - 20 Year  (Elite),K
+WTRP,WRL TermPlus with ROP - 20 Year  (Pfd+),K
+WTRE,WRL TermPlus with ROP - 30 Year,M
+WTRS,WRL TermPlus with ROP - 30 Year  (Elite),M
+WTRP,WRL TermPlus with ROP - 30 Year  (Pfd+),M
+          Western-Southern Life Assurance Company 
+WEST,10-Year Guaranteed Level Term,3
+WESS,10-Year Level Term  (Super Preferred),3
+WESP,10-Year Level Term  (Preferred Plus),3
+WEST,15-Year Guaranteed Level Term,4
+WESS,15-Year Level Term  (Super Preferred),4
+WESP,15-Year Level Term  (Preferred Plus),4
+WEST,20-Year Guaranteed Level Term,5
+WESS,20-Year Level Term  (Super Preferred),5
+WESP,20-Year Level Term  (Preferred Plus),5
+WTST,eTerm 20 - Guaranteed Level Term,5
+WTSS,eTerm 20 - Level Term  (Super Preferred),5
+WTSP,eTerm 20 - Level Term  (Preferred Plus),5
+WEST,30-Year Guaranteed Level Term,7
+WESS,30-Year Level Term  (Super Preferred),7
+WESP,30-Year Level Term  (Preferred Plus),7
+WTST,eTerm 30 - Guaranteed Level Term,7
+WTSS,eTerm 30 - Level Term  (Super Preferred),7
+WTSP,eTerm 30 - Level Term  (Preferred Plus),7
+WEST,Return of Premium Term - 20-Year,K
+WESS,Return of Premium 20-Year (Super Pfd),K
+WESP,Return of Premium 20-Year (Pfd Plus),K
+          William Penn Life Insurance Co of NY    
+WILR,Penn Term 10,3
+WILP,Penn Term 10  (Plus),3
+WILR,Penn Term 15,4
+WILP,Penn Term 15  (Plus),4
+WILR,Penn Term 20,5
+WILP,Penn Term 20  (Plus),5
+WILR,Penn Term 30,7
+WILP,Penn Term 30  (Plus),7
+WILR,Life Umbrella UL 120 - Guaranteed to 120,8
+WILP,Life Umbrella UL 120 - Gtd to 120 (Plus),8
+          Woman's Life Insurance Society          
+WOMA,Ten Year Renewable and Convertible Term,3
+WOMP,Ten Year R & C Term  (Preferred Plus),3
+WOMA,Twenty Year Convertible Term,5
+WOMP,Twenty Year Convertible Term  (Pfd Plus),5
